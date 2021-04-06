@@ -1,4 +1,4 @@
-👋 Hi, I'm Bala - an architect, a passionate programmer, and a tech explorer. 
+👋 Hi, I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
 - 👀 I'm interested in constant learning, exploring and coaching. 
