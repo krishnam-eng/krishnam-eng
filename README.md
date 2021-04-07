@@ -16,6 +16,53 @@
 
 📚 **My Years in Book**
 
+
+**_2021_**
+
+-
+-
+
+**_2020_**
+
+-
+-
+
+**_2019_**
+
+-
+-
+
+**_2018_**
+
+-
+-
+
+**_2017_**
+
+- [What Your Doctor Doesn't Know About Nutritional Medicine May Be Killing You](https://www.goodreads.com/book/show/20201348-what-your-doctor-doesn-t-know-about-nutritional-medicine-may-be-killing)
+- [Dogbert's Top Secret Management Handbook](https://www.goodreads.com/book/show/783374.Dogbert_s_Top_Secret_Management_Handbook)
+- [Dilbert and the Way of the Weasel](https://www.goodreads.com/book/show/425611.Dilbert_and_the_Way_of_the_Weasel)
+- [Don't Lose Your Mind Lose Your Weight](https://www.goodreads.com/book/show/19463734-don-t-lose-your-mind-lose-your-weight)
+- [Losing It! Making Weight Loss Simple](https://www.goodreads.com/book/show/20444470-losing-it-making-weight-loss-simple)
+- [13 Steps to Bloody Good Luck](https://www.goodreads.com/book/show/23586700-13-steps-to-bloody-good-luck)
+- [13 Steps to Bloody Good Wealth](https://www.goodreads.com/book/show/32791728-13-steps-to-bloody-good-wealth)
+- [Secrets of Smart Parents Raising Smarter Kids: A Short Guide to Easy, Quick & Joyful Parenting Techniques](https://www.goodreads.com/book/show/28509580-secrets-of-smart-parents-raising-smarter-kids)
+
+**_2016_**
+
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
+- [My Journey: Transforming Dreams into Actions](https://www.goodreads.com/book/show/27222159-my-journey)
+- [The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fads & Other Workplace Afflictions](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle)
+
+**_2015_**
+
+- [Who Moved My Cheese: An Amazing Way to Deal with Change in Your Work and in Your Life](https://www.goodreads.com/book/show/25962556-who-moved-my-cheese)
+- [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
+
+**_2014_**
+
+- [Black Holes and Baby Universes and Other Essays](https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays)
+
 **_2013_**
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
