@@ -19,8 +19,6 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 ------
 - [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4)
 
-Fun Facts
-======
 
 📚 **My Years in Book**
 ------
@@ -192,7 +190,7 @@ In GitHub
 - ![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) https://www.linkedin.com/in/krishnabalamurugan/
 - ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) krishnam.balamurugan.eng@gmail.com 
 - ![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white) https://krishnam-bala.medium.com/ 
-- ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+- ![](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)
 - ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 - 📚 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
 
