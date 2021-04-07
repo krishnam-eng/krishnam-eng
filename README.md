@@ -28,10 +28,13 @@
 - [Do the Work](https://www.goodreads.com/book/show/10645233-do-the-work)
 - [A Brief History of Time](https://www.goodreads.com/book/show/10645233-do-the-work)
 **_2012_**
+
 - [A Brief History of Time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 **_2011_**
+
 - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/11803016-how-to-win-friends-and-influence-people)
 **_2010_**
+
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 - [7 Habits of Highly Effective People: Powerful Lessons in Personal Changeree Productivity](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 
