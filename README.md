@@ -3,19 +3,25 @@
 I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
-- 👀 I'm interested in constant learning, exploring and coaching. 
 - 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and Python.
-- 💞️ I’m looking to collaborate on opensource tools / freamworks related to EDA, Machine Learning...
+- 👀 I'm interested in constant learning, exploring and coaching. 
 
-💪 **You Can Talk to Me About**
+💪 **Ask Me About**
 ------
+###### Skill Set
 - Industry Knowledge: Design Principles, Object Oriented Design, Test Driven Development, Software Project Management, Program Management, SDLC,...
-- Technologies: Java, Junit, Tomcat...
-- Environemnt: Linux, Ubuntu, Bash, Zsh, Nano...
-- Tools: VirtualBox, OneNote, PowerPoint...
+- Technologies & Tools: Java, Junit, Tomcat...
+- Dev Env: Linux, Ubuntu, Bash, Zsh, Nano...
+- Softwares: VirtualBox, OneNote, PowerPoint...
 - Interpersonal Skills: Decision-Making, Presentations, Time Management...
 - Other Skills: Presentation Design, Online Survey Design,... 
+ 
+✍️ **Latest Blog Posts**
+------
+- [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4)
 
+Fun Facts
+======
 
 📚 **My Years in Book**
 ------
@@ -174,7 +180,13 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Introduction to Presentation Design](https://app.pluralsight.com/library/courses/presentation-design-introduction)
 - [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
 - [OneNote 2016](https://app.pluralsight.com/library/courses/onenote-2016)
- 
+
+In GitHub
+------
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnam-eng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 📖 How to Reach
 ------
 - ✉️ krishnam.balamurugan.eng@gmail.com 
