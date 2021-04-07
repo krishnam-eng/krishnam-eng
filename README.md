@@ -20,7 +20,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4)
 
 
-📚 **My Years in Book**
+📚 **My Years in Books**
 ------
 This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
 
@@ -107,7 +107,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 🗒️ **My Years in Training**
 ------
 
-This list shows some of the trainings that I took along with getting hands dirty on these topics _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+This list shows some of the courses/training that I took along while getting my hands dirty on these topics  _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
 
 ###### **_2021_**
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
