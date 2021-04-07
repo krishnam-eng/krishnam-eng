@@ -15,7 +15,7 @@
 
 
 📚 **My Years in Book**
-
+This is my journey in books _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. Ignoring all short reads & the books that are read for technical reference)_
 
 **_2021_**
 
@@ -29,13 +29,25 @@
 
 **_2019_**
 
--
--
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+- [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.goodreads.com/book/show/6589966-eat-that-frog)
+- [15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
+- [Manage Your Day-to-Day: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind](https://www.goodreads.com/book/show/17606014-manage-your-day-to-day)
+- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)](https://www.goodreads.com/book/show/17681444-the-miracle-morning)
+- [Ready for Anything: 52 Productivity Principles for Getting Things Done](https://www.goodreads.com/book/show/2581.Ready_for_Anything)
+- [The 4-Hour Workweek](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
+- [The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://www.goodreads.com/book/show/7148931-the-4-hour-body)
+- [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)
 
 **_2018_**
 
--
--
+- [Writing Tools: 50 Essential Strategies for Every Writer](https://www.goodreads.com/book/show/51750.Writing_Tools)
+- [The Little Blue Reasoning Book: 50 Powerful Principles for Clear and Effective Thinking](https://www.goodreads.com/book/show/9536958-the-little-blue-reasoning-book)
+- [Mid-Career Crisis: Why Some Sail through While Others Don't](https://www.goodreads.com/book/show/24859173-mid-career-crisis)
+- [10 Steps to Mastering Stress: A Lifestyle Approach](https://www.goodreads.com/book/show/18579600-10-steps-to-mastering-stress)
+- [Fish!: A remarkable way to boost morale and improve results](https://www.goodreads.com/book/show/19179160-fish)
+- [Business Grammar, Style & Usage: A Desk Reference for Articulate & Polished Business Writing & Speaking](https://www.goodreads.com/book/show/75447.Business_Grammar_Style_Usage)
 
 **_2017_**
 
