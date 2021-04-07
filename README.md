@@ -128,9 +128,12 @@ This list shows some of the trainings that I took along with getting hands dirty
 
 **_2020_**
 
+- [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture)
+- [Best Practices in Implementing Container Image Promotion Pipelines](https://app.pluralsight.com/library/courses/allthetalks-session-84)
+- [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
+- [Continuous Monitoring: The Big Picture](https://app.pluralsight.com/library/courses/continuous-monitoring-big-picture)
 - [Learning the Elastic Stack ](https://www.linkedin.com/learning/learning-the-elastic-stack-2018)
 - [Elasticsearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training)
-- [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
 - [Making Quick Decisions](https://www.linkedin.com/learning/making-quick-decisions)
 - [Problem Solving Techniques](https://www.linkedin.com/learning/problem-solving-techniques)
 - [Time Management Fundamentals](https://www.linkedin.com/learning/time-management-fundamentals)
@@ -152,15 +155,28 @@ This list shows some of the trainings that I took along with getting hands dirty
 
 
 **_before 2020_**
-- [Learning Java 9 Modularity](https://www.linkedin.com/learning/learning-java-9-modularity)
-- [Advanced Design Patterns: Design Principles](https://www.linkedin.com/learning/advanced-design-patterns-design-principles)
-- [Learning S.O.L.I.D. Programming Principles](https://www.linkedin.com/learning/learning-s-o-l-i-d-programming-principles)
-- [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2)
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit)
+
+- [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
+- [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
 - [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3)
+- [Learning S.O.L.I.D. Programming Principles](https://www.linkedin.com/learning/learning-s-o-l-i-d-programming-principles)
+- [Advanced Design Patterns: Design Principles](https://www.linkedin.com/learning/advanced-design-patterns-design-principles)
 - [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc)
-
-
+- [Kotlin Fundamentals](https://app.pluralsight.com/library/courses/kotlin-fundamentals)
+- [Gradle Fundamentals](https://app.pluralsight.com/library/courses/gradle-fundamentals)
+- [Getting Started with IntelliJ CE](https://app.pluralsight.com/library/courses/intellij-ce-getting-started)
+- [Learning Java 9 Modularity](https://www.linkedin.com/learning/learning-java-9-modularity)
+- [Java Platform: Working with Databases Using JDBC](https://app.pluralsight.com/library/courses/jdbc-java-platform-working-with-databases)
+- [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit)
+- [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2)
+- [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started)
+- [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture)
+- [Scrum Development with Jira & JIRA Agile](https://app.pluralsight.com/library/courses/scrum-development-jira-agile)
+- [Increasing Productivity by Beating Procrastination](https://app.pluralsight.com/library/courses/increasing-productivity-beating-procrastination)
+- [Visual Communication: Creating Engaging and Effective Technical Diagrams](https://app.pluralsight.com/library/courses/visual-communication-technical-diagrams)
+- [Introduction to Presentation Design](https://app.pluralsight.com/library/courses/presentation-design-introduction)
+- [Picturing Architecture: UML (The Good Bits) and More](https://app.pluralsight.com/library/courses/picturing-architecture-uml)
+- [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
 
 📖 How to reach me:
 - ✉️ krishnam.balamurugan.eng@gmail.com 
