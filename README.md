@@ -18,7 +18,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 
 📚 **My Years in Book**
 
-This is my journey in books _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
+This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
 
 **_2021_**
 
@@ -111,6 +111,22 @@ This is my journey in books _(I'm listing only the books that I read cover-to-co
 - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 - [7 Habits of Highly Effective People: Powerful Lessons in Personal Changeree Productivity](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+
+🗒️ **My Years in Training**
+
+This list shows some of the trainings that I took since 2020 along with getting hands dirty. _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+
+**_2021_**
+- [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
+- [Learning Ubuntu Desktop](https://www.linkedin.com/learning/learning-ubuntu-desktop)
+- [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux)
+- [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2)
+- [Learning zsh](https://www.linkedin.com/learning/learning-zsh/introducing-zsh)
+- [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
+- [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
+
+
+**_2020_**
 
 
 📖 How to reach me:
