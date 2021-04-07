@@ -162,10 +162,14 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3)
 - [Learning S.O.L.I.D. Programming Principles](https://www.linkedin.com/learning/learning-s-o-l-i-d-programming-principles)
 - [Advanced Design Patterns: Design Principles](https://www.linkedin.com/learning/advanced-design-patterns-design-principles)
+- [Clean Code: Writing Code for Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans/)
+- [Pair Programming](https://app.pluralsight.com/library/courses/pair-programming)
+- [Picturing Architecture: UML (The Good Bits) and More](https://app.pluralsight.com/library/courses/picturing-architecture-uml)
 - [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc)
 - [Kotlin Fundamentals](https://app.pluralsight.com/library/courses/kotlin-fundamentals)
 - [Gradle Fundamentals](https://app.pluralsight.com/library/courses/gradle-fundamentals)
 - [Getting Started with IntelliJ CE](https://app.pluralsight.com/library/courses/intellij-ce-getting-started)
+- [Java 9 Modularity: First Look](https://app.pluralsight.com/library/courses/java-9-modularity-first-look/table-of-contents)
 - [Learning Java 9 Modularity](https://www.linkedin.com/learning/learning-java-9-modularity)
 - [Java Platform: Working with Databases Using JDBC](https://app.pluralsight.com/library/courses/jdbc-java-platform-working-with-databases)
 - [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit)
@@ -174,11 +178,12 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture)
 - [Scrum Development with Jira & JIRA Agile](https://app.pluralsight.com/library/courses/scrum-development-jira-agile)
 - [Increasing Productivity by Beating Procrastination](https://app.pluralsight.com/library/courses/increasing-productivity-beating-procrastination)
+- [Productivity Tips for the Busy Tech Professional](https://app.pluralsight.com/library/courses/productivity-tips-busy-tech-professional/table-of-contents)
 - [Visual Communication: Creating Engaging and Effective Technical Diagrams](https://app.pluralsight.com/library/courses/visual-communication-technical-diagrams)
 - [Introduction to Presentation Design](https://app.pluralsight.com/library/courses/presentation-design-introduction)
-- [Picturing Architecture: UML (The Good Bits) and More](https://app.pluralsight.com/library/courses/picturing-architecture-uml)
 - [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
-
+- [OneNote 2016](https://app.pluralsight.com/library/courses/onenote-2016)
+ 
 📖 How to Reach
 ------
 - ✉️ krishnam.balamurugan.eng@gmail.com 
