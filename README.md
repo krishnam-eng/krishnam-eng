@@ -83,11 +83,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [Who Moved My Cheese: An Amazing Way to Deal with Change in Your Work and in Your Life](https://www.goodreads.com/book/show/25962556-who-moved-my-cheese)
 - [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
 
-###### **_2014_**
-
-- [Black Holes and Baby Universes and Other Essays](https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays)
-
-###### **_2013_**
+###### **Before _2015_**
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [Effective Programming: More Than Writing Code](https://www.goodreads.com/book/show/15746409-effective-programming)
@@ -97,21 +93,13 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [How to Lie with Statistic](https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics)
 - [The Curmudgeon's Guide to Getting Ahead: Dos and Don'ts of Right Behavior, Tough Thinking, Clear Writing, and Living a Good Life](https://www.goodreads.com/book/show/18811353-the-curmudgeon-s-guide-to-getting-ahead)
 - [Do the Work](https://www.goodreads.com/book/show/10645233-do-the-work)
-
-###### **_2012_**
-
-- [A Brief History of Time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
-- [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos)
-
-###### **_2011_**
-
-- [How to Win Friends and Influence People](https://www.goodreads.com/book/show/11803016-how-to-win-friends-and-influence-people)
-
-###### **_2010_**
-
-- [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 - [7 Habits of Highly Effective People: Powerful Lessons in Personal Changeree Productivity](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [How to Win Friends and Influence People](https://www.goodreads.com/book/show/11803016-how-to-win-friends-and-influence-people)
+- [A Brief History of Time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos)
+- [Black Holes and Baby Universes and Other Essays](https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays)
+- [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 
 🗒️ **My Years in Training**
 ------
@@ -173,10 +161,13 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Learning Java 9 Modularity](https://www.linkedin.com/learning/learning-java-9-modularity)
 - [Java Platform: Working with Databases Using JDBC](https://app.pluralsight.com/library/courses/jdbc-java-platform-working-with-databases)
 - [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit)
+- [Understanding the Java Virtual Machine: Class Loading and Reflection](https://app.pluralsight.com/library/courses/understanding-java-vm-class-loading-reflection/table-of-contents)
 - [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2)
+- [Centralized Logging with the Elastic Stack: Getting Started](https://app.pluralsight.com/library/courses/centralized-logging-elastic-stack/table-of-contents)
 - [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started)
 - [AWS Developer: The Big Picture](https://app.pluralsight.com/library/courses/aws-developer-big-picture)
 - [Scrum Development with Jira & JIRA Agile](https://app.pluralsight.com/library/courses/scrum-development-jira-agile)
+- [Scrum Fundamentals](https://app.pluralsight.com/library/courses/scrum-fundamentals)
 - [Increasing Productivity by Beating Procrastination](https://app.pluralsight.com/library/courses/increasing-productivity-beating-procrastination)
 - [Productivity Tips for the Busy Tech Professional](https://app.pluralsight.com/library/courses/productivity-tips-busy-tech-professional/table-of-contents)
 - [Visual Communication: Creating Engaging and Effective Technical Diagrams](https://app.pluralsight.com/library/courses/visual-communication-technical-diagrams)
