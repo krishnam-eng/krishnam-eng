@@ -12,7 +12,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - Technologies: Java, Junit, Tomcat...
 - Environemnt: Linux, Ubuntu, Bash, Zsh, Nano...
 - Tools: VirtualBox, OneNote, PowerPoint...
-- Interpersonal Skills: Decision-Making, Presentations,...
+- Interpersonal Skills: Decision-Making, Presentations, Time Management...
 - Other Skills: Presentation Design, Online Survey Design,... 
 
 
@@ -111,13 +111,12 @@ This is my journey in books _(I'm listing only the books that I read cover-to-co
 - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 - [7 Habits of Highly Effective People: Powerful Lessons in Personal Changeree Productivity](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- 
+
 
 📖 How to reach me:
 - ✉️ krishnam.balamurugan.eng@gmail.com 
 - 👔 https://www.linkedin.com/in/krishnabalamurugan/ 
 - ✍️ https://krishnam-bala.medium.com/ 
 - 📕 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
-- 
 
 
