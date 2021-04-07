@@ -4,7 +4,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
 - 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and Python.
-- 👀 I'm interested in constant learning, exploring and coaching. 
+- 👀 I'm interested in constant learning, exploring and coaching.
 
 💪 **Ask Me About**
 ------
@@ -14,7 +14,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - Dev Env: Linux, Ubuntu, Bash, Zsh, Nano, git...
 - Softwares: VirtualBox, OneNote, PowerPoint, JIRA, Audacity, Premiere Pro...
 - Interpersonal Skills: Decision-Making, Presentations, Time Management...
-- Other Skills: Presentation Design, Online Survey Design,... 
+- Other Skills: Presentation Design, Video Editing, Online Survey Design,... 
  
 ✍️ **Latest Blog Posts**
 ------
@@ -191,6 +191,11 @@ In GitHub
 📖 How to Reach
 ------
 - ✉️ krishnam.balamurugan.eng@gmail.com 
-- 👔 https://www.linkedin.com/in/krishnabalamurugan/ 
 - ✍️ https://krishnam-bala.medium.com/ 
 - 📕 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
+
+<a href="https://www.linkedin.com/in/krishnabalamurugan/ ">
+  <img align="left" alt="Bala's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
