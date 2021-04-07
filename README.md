@@ -120,6 +120,7 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Learning zsh](https://www.linkedin.com/learning/learning-zsh/introducing-zsh)
 - [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
 - [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
+- [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
 
 
 ###### **_2020_**
