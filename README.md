@@ -3,15 +3,15 @@
 I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
-- 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
+- 🌱 I’m currently learning Cloud Computing (![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)), Modern EDA and its tech ecosystem, and ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
 - 👀 I'm interested in constant learning, exploring and coaching.
 
 💪 **Ask Me About**
 ------
 ###### Skill Set
 - Industry Knowledge: Design Principles, Object Oriented Design, AOP, Test Driven Development, Software Project Management, Program Management, SDLC,...
-- Technologies & Tools: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), Junit, ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), MyBatis, Maven, Gradle, Tomcat, Linux, ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), Bash, Zsh, Nano, ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
-- Softwares: VirtualBox, OneNote, PowerPoint, JIRA, Audacity, Premiere Pro...
+- Technologies & Tools: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), Junit, ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), MyBatis, Maven, Gradle, Tomcat, ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), Linux, ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white), Bash, Zsh, Nano, ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
+- Softwares: VirtualBox, OneNote, ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), JIRA, Audacity, Premiere Pro...
 - Interpersonal Skills: Decision-Making, Presentations, Time Management...
 - Other Skills: Presentation Design, Video Editing, Online Survey Design,... 
  
@@ -189,11 +189,11 @@ In GitHub
 
 📖 How to Reach
 ------
-- ✉️ krishnam.balamurugan.eng@gmail.com 
-- ✍️ ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white) https://krishnam-bala.medium.com/ 
-- 📕 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
-- https://www.linkedin.com/in/krishnabalamurugan/
+- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) https://www.linkedin.com/in/krishnabalamurugan/
+- ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) krishnam.balamurugan.eng@gmail.com 
+- ![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white) https://krishnam-bala.medium.com/ 
+- ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+- ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+- 📚 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
 
 
-
-![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
