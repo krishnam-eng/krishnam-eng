@@ -114,7 +114,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 
 🗒️ **My Years in Training**
 
-This list shows some of the trainings that I took since 2020 along with getting hands dirty. _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+This list shows some of the trainings that I took along with getting hands dirty on these topics _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
 
 **_2021_**
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
@@ -127,6 +127,39 @@ This list shows some of the trainings that I took since 2020 along with getting 
 
 
 **_2020_**
+
+- [Learning the Elastic Stack ](https://www.linkedin.com/learning/learning-the-elastic-stack-2018)
+- [Elasticsearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training)
+- [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
+- [Making Quick Decisions](https://www.linkedin.com/learning/making-quick-decisions)
+- [Problem Solving Techniques](https://www.linkedin.com/learning/problem-solving-techniques)
+- [Time Management Fundamentals](https://www.linkedin.com/learning/time-management-fundamentals)
+- [Time Management Fundamentals with Microsoft Office](https://www.linkedin.com/learning/time-management-fundamentals-with-microsoft-office)
+- [Time Management: Working from Home](https://www.linkedin.com/learning/time-management-working-from-home)
+- [Managing Your Time](https://www.linkedin.com/learning/managing-your-time)
+- [Balancing Work and Life as a Work-from-Home Parent](https://www.linkedin.com/learning/balancing-work-and-life-as-a-work-from-home-parent)
+- [SurveyMonkey Essential Training](https://www.linkedin.com/learning/surveymonkey-essential-training-2)
+- [Learning Audacity](https://www.linkedin.com/learning/learning-audacity-2016)
+- [Audacity: Cleaning and Repairing Audio](https://www.linkedin.com/learning/audacity-cleaning-and-repairing-audio)
+- [Design a Compelling Presentation](https://www.linkedin.com/learning/design-a-compelling-presentation)
+- [PowerPoint: Silicon Valley Presentation Secrets](https://www.linkedin.com/learning/powerpoint-silicon-valley-presentation-secrets)
+- [PowerPoint: From Outline to Presentation](https://www.linkedin.com/learning/powerpoint-from-outline-to-presentation)
+- [Designing a Presentation](https://www.linkedin.com/learning/designing-a-presentation-2)
+- [Creative Video Editing Techniques](https://www.linkedin.com/learning/creative-video-editing-techniques)
+- [Learning Premiere Pro](https://www.linkedin.com/learning/learning-premiere-pro)
+- [Managing Your Personal Investments](https://www.linkedin.com/learning/managing-your-personal-investments)
+- [Money in Excel: First Look](https://www.linkedin.com/learning/money-in-excel-first-look)
+
+
+**_before 2020_**
+- [Learning Java 9 Modularity](https://www.linkedin.com/learning/learning-java-9-modularity)
+- [Advanced Design Patterns: Design Principles](https://www.linkedin.com/learning/advanced-design-patterns-design-principles)
+- [Learning S.O.L.I.D. Programming Principles](https://www.linkedin.com/learning/learning-s-o-l-i-d-programming-principles)
+- [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2)
+- [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit)
+- [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3)
+- [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc)
+
 
 
 📖 How to reach me:
