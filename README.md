@@ -18,7 +18,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 
 📚 **My Years in Book**
 
-This is my journey in books _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference)_
+This is my journey in books _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
 
 **_2021_**
 
@@ -70,7 +70,6 @@ This is my journey in books _(I'm listing only the books that I read cover-to-co
 - [Losing It! Making Weight Loss Simple](https://www.goodreads.com/book/show/20444470-losing-it-making-weight-loss-simple)
 - [13 Steps to Bloody Good Luck](https://www.goodreads.com/book/show/23586700-13-steps-to-bloody-good-luck)
 - [13 Steps to Bloody Good Wealth](https://www.goodreads.com/book/show/32791728-13-steps-to-bloody-good-wealth)
-- [Secrets of Smart Parents Raising Smarter Kids: A Short Guide to Easy, Quick & Joyful Parenting Techniques](https://www.goodreads.com/book/show/28509580-secrets-of-smart-parents-raising-smarter-kids)
 
 **_2016_**
 
