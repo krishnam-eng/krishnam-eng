@@ -28,11 +28,8 @@ This is my journey in books _(I'm listing only the books that I read cover-to-co
 
 - [Implementing Service Level Objectives: A Practical Guide to Slis, Slos, and Error Budgets](https://www.goodreads.com/book/show/51771842-implementing-service-level-objectives)
 - [Incident Management for Operations](https://www.goodreads.com/book/show/26457153-incident-management-for-operations)
-
-
 - [The 5 Elements of Effective Thinking](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
 - [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models)
-
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism)
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/book/show/9420697-the-compound-effect)
@@ -40,7 +37,6 @@ This is my journey in books _(I'm listing only the books that I read cover-to-co
 - [Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18077875-essentialism)
 - [The Bullet Journal Method: Track the Past, Order the Present, Design the Future](https://www.goodreads.com/book/show/39071691-the-bullet-journal-method)
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up)
-
 - [The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting](https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting)
 
 **_2019_**
