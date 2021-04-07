@@ -7,7 +7,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and Python.
 - 💞️ I’m looking to collaborate on opensource tools / freamworks related to EDA, Machine Learning...
 
-💪 **You can talk to me about**
+💪 **You Can Talk to Me about**
 ------
 - Industry Knowledge: Design Principles, Object Oriented Design, Test Driven Development, Software Project Management, Program Management, SDLC,...
 - Technologies: Java, Junit, Tomcat...
@@ -131,7 +131,6 @@ This list shows some of the trainings that I took along with getting hands dirty
 ###### **_2020_**
 
 - [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture)
-- [Best Practices in Implementing Container Image Promotion Pipelines](https://app.pluralsight.com/library/courses/allthetalks-session-84)
 - [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
 - [Continuous Monitoring: The Big Picture](https://app.pluralsight.com/library/courses/continuous-monitoring-big-picture)
 - [Learning the Elastic Stack ](https://www.linkedin.com/learning/learning-the-elastic-stack-2018)
