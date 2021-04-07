@@ -1,5 +1,5 @@
 👨‍💼 **About Me**
-
+------
 I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
@@ -8,6 +8,7 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - 💞️ I’m looking to collaborate on opensource tools / freamworks related to EDA, Machine Learning...
 
 💪 **You can talk to me about**
+------
 - Industry Knowledge: Design Principles, Object Oriented Design, Test Driven Development, Software Project Management, Program Management, SDLC,...
 - Technologies: Java, Junit, Tomcat...
 - Environemnt: Linux, Ubuntu, Bash, Zsh, Nano...
@@ -17,14 +18,14 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 
 
 📚 **My Years in Book**
-
+------
 This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
 
-**_2021_**
+###### **_2021_**
 
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture)
 
-**_2020_**
+###### **_2020_**
 
 - [Implementing Service Level Objectives: A Practical Guide to Slis, Slos, and Error Budgets](https://www.goodreads.com/book/show/51771842-implementing-service-level-objectives)
 - [Incident Management for Operations](https://www.goodreads.com/book/show/26457153-incident-management-for-operations)
@@ -39,7 +40,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up)
 - [The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting](https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting)
 
-**_2019_**
+###### **_2019_**
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
@@ -52,7 +53,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://www.goodreads.com/book/show/7148931-the-4-hour-body)
 - [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)
 
-**_2018_**
+###### **_2018_**
 
 - [Writing Tools: 50 Essential Strategies for Every Writer](https://www.goodreads.com/book/show/51750.Writing_Tools)
 - [The Little Blue Reasoning Book: 50 Powerful Principles for Clear and Effective Thinking](https://www.goodreads.com/book/show/9536958-the-little-blue-reasoning-book)
@@ -61,7 +62,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [Fish!: A remarkable way to boost morale and improve results](https://www.goodreads.com/book/show/19179160-fish)
 - [Business Grammar, Style & Usage: A Desk Reference for Articulate & Polished Business Writing & Speaking](https://www.goodreads.com/book/show/75447.Business_Grammar_Style_Usage)
 
-**_2017_**
+###### **_2017_**
 
 - [What Your Doctor Doesn't Know About Nutritional Medicine May Be Killing You](https://www.goodreads.com/book/show/20201348-what-your-doctor-doesn-t-know-about-nutritional-medicine-may-be-killing)
 - [Dogbert's Top Secret Management Handbook](https://www.goodreads.com/book/show/783374.Dogbert_s_Top_Secret_Management_Handbook)
@@ -71,22 +72,22 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [13 Steps to Bloody Good Luck](https://www.goodreads.com/book/show/23586700-13-steps-to-bloody-good-luck)
 - [13 Steps to Bloody Good Wealth](https://www.goodreads.com/book/show/32791728-13-steps-to-bloody-good-wealth)
 
-**_2016_**
+###### **_2016_**
 
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [My Journey: Transforming Dreams into Actions](https://www.goodreads.com/book/show/27222159-my-journey)
 - [The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fads & Other Workplace Afflictions](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle)
 
-**_2015_**
+###### **_2015_**
 
 - [Who Moved My Cheese: An Amazing Way to Deal with Change in Your Work and in Your Life](https://www.goodreads.com/book/show/25962556-who-moved-my-cheese)
 - [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
 
-**_2014_**
+###### **_2014_**
 
 - [Black Holes and Baby Universes and Other Essays](https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays)
 
-**_2013_**
+###### **_2013_**
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [Effective Programming: More Than Writing Code](https://www.goodreads.com/book/show/15746409-effective-programming)
@@ -97,26 +98,27 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [The Curmudgeon's Guide to Getting Ahead: Dos and Don'ts of Right Behavior, Tough Thinking, Clear Writing, and Living a Good Life](https://www.goodreads.com/book/show/18811353-the-curmudgeon-s-guide-to-getting-ahead)
 - [Do the Work](https://www.goodreads.com/book/show/10645233-do-the-work)
 
-**_2012_**
+###### **_2012_**
 
 - [A Brief History of Time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos)
 
-**_2011_**
+###### **_2011_**
 
 - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/11803016-how-to-win-friends-and-influence-people)
 
-**_2010_**
+###### **_2010_**
 
 - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 - [7 Habits of Highly Effective People: Powerful Lessons in Personal Changeree Productivity](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 
 🗒️ **My Years in Training**
+------
 
 This list shows some of the trainings that I took along with getting hands dirty on these topics _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
 
-**_2021_**
+###### **_2021_**
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
 - [Learning Ubuntu Desktop](https://www.linkedin.com/learning/learning-ubuntu-desktop)
 - [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux)
@@ -126,7 +128,7 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
 
 
-**_2020_**
+###### **_2020_**
 
 - [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture)
 - [Best Practices in Implementing Container Image Promotion Pipelines](https://app.pluralsight.com/library/courses/allthetalks-session-84)
@@ -154,7 +156,7 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Money in Excel: First Look](https://www.linkedin.com/learning/money-in-excel-first-look)
 
 
-**_before 2020_**
+###### **_before 2020_**
 
 - [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
 - [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
@@ -178,10 +180,9 @@ This list shows some of the trainings that I took along with getting hands dirty
 - [Picturing Architecture: UML (The Good Bits) and More](https://app.pluralsight.com/library/courses/picturing-architecture-uml)
 - [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
 
-📖 How to reach me:
+📖 How to Reach
+------
 - ✉️ krishnam.balamurugan.eng@gmail.com 
 - 👔 https://www.linkedin.com/in/krishnabalamurugan/ 
 - ✍️ https://krishnam-bala.medium.com/ 
 - 📕 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
-
-
