@@ -3,15 +3,14 @@
 I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
-- 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python).
+- 🌱 I’m currently learning Cloud Computing (AWS), Modern EDA and its tech ecosystem, and ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
 - 👀 I'm interested in constant learning, exploring and coaching.
 
 💪 **Ask Me About**
 ------
 ###### Skill Set
 - Industry Knowledge: Design Principles, Object Oriented Design, AOP, Test Driven Development, Software Project Management, Program Management, SDLC,...
-- Technologies & Tools: ![](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java), Junit, Kotlin, Spring, MyBatis, Maven, Gradle, Tomcat...
-- Dev Env: Linux, Ubuntu, Bash, Zsh, Nano, git...
+- Technologies & Tools: ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java), Junit, ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), Spring, MyBatis, Maven, Gradle, Tomcat, Linux, ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), Bash, Zsh, Nano, ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
 - Softwares: VirtualBox, OneNote, PowerPoint, JIRA, Audacity, Premiere Pro...
 - Interpersonal Skills: Decision-Making, Presentations, Time Management...
 - Other Skills: Presentation Design, Video Editing, Online Survey Design,... 
@@ -191,11 +190,10 @@ In GitHub
 📖 How to Reach
 ------
 - ✉️ krishnam.balamurugan.eng@gmail.com 
-- ✍️ https://krishnam-bala.medium.com/ 
+- ✍️ ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white) https://krishnam-bala.medium.com/ 
 - 📕 https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy
-
-<a href="https://www.linkedin.com/in/krishnabalamurugan/ ">
-  <img align="left" alt="Bala's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- https://www.linkedin.com/in/krishnabalamurugan/
 
 
+
+![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
