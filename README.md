@@ -87,7 +87,9 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
 
 ###### **Before _2015_**
-
+<details>
+ <summary> Click here to expand...</summary>
+ 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [Effective Programming: More Than Writing Code](https://www.goodreads.com/book/show/15746409-effective-programming)
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
@@ -103,6 +105,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos)
 - [Black Holes and Baby Universes and Other Essays](https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays)
 - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
+</details>
 
 🗒️ **My Years in Training**
 ------
@@ -149,6 +152,9 @@ This list shows some of the courses/training that I took along while getting my 
 
 ###### **_before 2020_**
 
+<details>
+ <summary> Click here to expand...</summary>
+ 
 - [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
 - [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
 - [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3)
@@ -178,6 +184,7 @@ This list shows some of the courses/training that I took along while getting my 
 - [Introduction to Presentation Design](https://app.pluralsight.com/library/courses/presentation-design-introduction)
 - [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
 - [OneNote 2016](https://app.pluralsight.com/library/courses/onenote-2016)
+</details>
 
 In GitHub
 ------
