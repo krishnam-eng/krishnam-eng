@@ -191,8 +191,8 @@ This list shows some of the courses/training that I took while getting my hands 
 Live Stats
 ------
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnam-eng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnam-eng&layout=compact)
 
 📖 How to Reach
 ------
