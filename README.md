@@ -3,7 +3,7 @@
 I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ I love problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends and disseminating knowledge.
-- 🌱 I’m currently learning & mastering Cloud Computing (![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)), Modern EDA and its tech ecosystem, and ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white).
+- 🌱 I’m currently learning & mastering ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), Cloud Computing (![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)), Modern EDA and its tech ecosystem. What Next: ML
 - 👀 I'm interested in constant learning, exploring and coaching.
 
 💪 **Ask Me About**
