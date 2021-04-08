@@ -188,13 +188,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 </details>
 
-Fun Facts
-------
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnam-eng&layout=compact)
-
-📖 How to Reach
+☁️ My Life in Cyberspace and How to Reach Me There
 ------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalamurugan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan.eng@gmail.com) 
@@ -202,3 +196,6 @@ Fun Facts
 [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)]()
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15580842/balamurugan-krishnamoorthy)
 [![Goodread](https://img.shields.io/badge/Goodread-read(64)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnam-eng&layout=compact)
