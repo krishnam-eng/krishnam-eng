@@ -111,7 +111,7 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 🗒️ **My Years in Training**
 ------
 
-This list shows some of the courses/training that I took along while getting my hands dirty on these topics  _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+This list shows some of the courses/training that I took while getting my hands dirty on these topics  _(Some of them are to refresh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
 
 <details>
  <summary> Click here to see the list...</summary>
