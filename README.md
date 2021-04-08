@@ -24,6 +24,9 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 ------
 This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
 
+<details>
+ <summary> Click here to see the list...</summary>
+ 
 ###### **_2021_**
 
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture)
@@ -87,8 +90,6 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 - [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
 
 ###### **Before _2015_**
-<details>
- <summary> Click here to expand...</summary>
  
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [Effective Programming: More Than Writing Code](https://www.goodreads.com/book/show/15746409-effective-programming)
@@ -111,6 +112,9 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 ------
 
 This list shows some of the courses/training that I took along while getting my hands dirty on these topics  _(Some of the training is to refersh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+
+<details>
+ <summary> Click here to see the list...</summary>
 
 ###### **_2021_**
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
@@ -151,9 +155,6 @@ This list shows some of the courses/training that I took along while getting my 
 
 
 ###### **_before 2020_**
-
-<details>
- <summary> Click here to expand...</summary>
  
 - [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
 - [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
@@ -184,6 +185,7 @@ This list shows some of the courses/training that I took along while getting my 
 - [Introduction to Presentation Design](https://app.pluralsight.com/library/courses/presentation-design-introduction)
 - [Viewing and Manipulating Data in Excel 2016](https://app.pluralsight.com/library/courses/excel-2016-data)
 - [OneNote 2016](https://app.pluralsight.com/library/courses/onenote-2016)
+
 </details>
 
 In GitHub
