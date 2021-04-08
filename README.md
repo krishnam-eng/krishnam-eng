@@ -188,7 +188,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 </details>
 
-In GitHub
+Live Stats
 ------
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-eng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
