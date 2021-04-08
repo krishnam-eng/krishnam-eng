@@ -118,7 +118,7 @@ This list shows some of the courses/training that I took along while getting my 
 - [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
 - [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
 - [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
-
+- [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line)
 
 ###### **_2020_**
 
