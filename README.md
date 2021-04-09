@@ -197,6 +197,6 @@ This list shows some of the courses/training that I took while getting my hands 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan.eng@gmail.com) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) 
 [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](todo:add-link-here)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](todo:add-link-here)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](todo:add-link-here)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15580842/balamurugan-krishnamoorthy)
 [![Goodread](https://img.shields.io/badge/Goodread-read(64)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy)
