@@ -15,14 +15,9 @@ I'm Bala - a passionate programmer, a pragmatic architect and an enthusiastic ex
 - Interpersonal Skills: Decision-Making, Presentations, Time Management...
 - Other Skills: Presentation Design, Video Editing, Online Survey Design,... 
  
-✍️ **Latest Blog Posts**
-------
-- [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4)
-
-
 📚 **My Years in Books**
 ------
-This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover and only that are more than 100 pages long. I am ignoring all short reads & the books that are read partially for technical reference on specific topic)_
+This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover. I am ignoring all short reads (book pages < 100) & the books that are read partially for technical reference on specific topic)_
 
 <details>
  <summary> Click here to see the list...</summary>
@@ -188,7 +183,11 @@ This list shows some of the courses/training that I took while getting my hands 
 
 </details>
 
-☁️ My Life in Cyberspace and How to Reach Me There
+✍️ **Latest Blog Posts**
+------
+- [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4)
+
+☁️ My Life in Cyberspace (and How to Reach Me There)
 ------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalamurugan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan.eng@gmail.com) 
