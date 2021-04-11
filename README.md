@@ -5,7 +5,7 @@ Hi There 👋,
 I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ What I Love: problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends, and along the way try disseminating knowledge for the love of the tech community.
-- 🌱 What Am I Learning: Currently, I'm in the process of mastering ➡️ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), Cloud Computing (![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)), Modern EDA and its tech ecosystem. 
+- 🌱 What Am I Learning: Currently, I'm in the process of mastering ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Cloud Computing(AWS)](https://img.shields.io/badge/Cloud%20Computing-232F3E?style=flat&logo=amazon-aws&logoColor=white), & ![EDA](https://img.shields.io/badge/EDA-333333?style=flat&logo=apache-kafka). 
 - 👀 What Am I Interested In: constant learning, exploring and coaching (not just limited to IT).
 - ⏭️ What's Next: more contribution to OpenSource & InnerSource and getting my feet wet with ML & DataScience.
 
@@ -13,7 +13,7 @@ I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic ex
 💪 **Ask Me About**
 ------
 ###### Skill Set
-- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white), Bash
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash)
 - **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), MyBatis, Maven, Gradle
 - **Database:** ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 - **Environment & Dev Tools:** VirtualBox, Linux, Zsh, Tmux, Nano, ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket) 
