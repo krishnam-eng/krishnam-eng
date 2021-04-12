@@ -32,6 +32,8 @@ This is my journey in books since 2010 _(I'm listing only the books that I read 
 ###### **_2021_**
 
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture)
+- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2)
+- [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux)
 
 ###### **_2020_**
 
