@@ -31,10 +31,12 @@ This is my journey in books since 2010 _(along with my rating, I'm listing only 
  
 ###### **_2021_**
 
-- [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) ⭐⭐⭐
-- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) ⭐⭐⭐⭐
-- [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux) ⭐⭐⭐
-- 
+- [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) [⭐⭐⭐]
+- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) [⭐⭐⭐⭐]
+- [Getting Started with Tmux](https://www.goodreads.com/book/show/23313545-getting-started-with-tmux) [⭐⭐⭐⭐]
+- [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux) [⭐⭐⭐]
+- [The Tao of tmux: and Terminal Tricks](https://www.goodreads.com/book/show/33246223-the-tao-of-tmux) [⭐⭐⭐]
+- [tmux Taster](https://www.goodreads.com/book/show/23958392-tmux-taster) [⭐⭐]
 
 ###### **_2020_**
 
