@@ -24,16 +24,17 @@ I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic ex
 
 📚 **My Years in Books**
 ------
-This is my journey in books since 2010 _(I'm listing only the books that I read cover-to-cover. I am ignoring all short reads (book pages < 100) & the books that are read partially for technical reference on specific topic)_
+This is my journey in books since 2010 _(along with my rating, I'm listing only the books that I read cover-to-cover and ignoring all short reads where the book pages < 100)_
 
 <details>
  <summary> Click here to see the list...</summary>
  
 ###### **_2021_**
 
-- [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture)
-- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2)
-- [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux)
+- [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) ⭐⭐⭐
+- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) ⭐⭐⭐⭐
+- [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux) ⭐⭐⭐
+- 
 
 ###### **_2020_**
 
