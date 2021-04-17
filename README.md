@@ -125,6 +125,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 
+- [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line)
 - [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
