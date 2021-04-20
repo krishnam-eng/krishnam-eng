@@ -202,6 +202,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ✍️ **Latest Blog Posts**
 ------
+- [tmux: 13 Cool Tweaks to Make It Personal and Powerful](https://dev.to/krishnam/tmux-13-cool-tweaks-to-make-it-personal-and-powerful-487p)
 - [Productivity Booster: Command Line Happiness with tmux](https://dev.to/krishnam/dev-productivity-command-line-happiness-with-terminal-multiplexing-5067) (Apr-21)
 - [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4) (Mar-21)
 
