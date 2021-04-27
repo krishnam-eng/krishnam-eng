@@ -125,7 +125,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 - [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
-- [Visual Studio Code for Python Developers](https://www.linkedin.com/learning/visual-studio-code-for-python-developers) [⏳ in progress]
+- [Visual Studio Code for Python Developers](https://www.linkedin.com/learning/visual-studio-code-for-python-developers)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh)
