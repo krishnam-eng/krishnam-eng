@@ -31,6 +31,7 @@ This is my journey in books since 2010 _(along with my rating, I'm listing only 
  
 ###### **_2021_**
 - [Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond](https://www.goodreads.com/book/show/49912861-java-performance?from_search=true&from_srp=true&qid=XlPF7oHDEx&rank=1) [⏳ in progress]
+- [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.goodreads.com/book/show/28321007-the-hitchhiker-s-guide-to-python) [⏳ in progress]
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) [⭐⭐⭐]
 - [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) [⭐⭐⭐⭐]
 - [Getting Started with Tmux](https://www.goodreads.com/book/show/23313545-getting-started-with-tmux) [⭐⭐⭐⭐]
@@ -124,10 +125,14 @@ This list shows some of the courses/training that I took while getting my hands 
  <summary> Click here to see the list...</summary>
 
 ###### **_2021_**
+
+- [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training) [⏳ in progress]
+- [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming) [⏳ in progress]
 - [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
 - [Visual Studio Code for Python Developers](https://www.linkedin.com/learning/visual-studio-code-for-python-developers)
 - [Developing with Visual Studio Code](https://www.linkedin.com/learning/developing-with-visual-studio-code)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
+- [AWK Essential Training](https://www.linkedin.com/learning/awk-essential-training)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line)
