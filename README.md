@@ -5,7 +5,7 @@ Hi There 👋,
 I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ What I Love: problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends, and along the way try disseminating knowledge for the love of the tech community.
-- 🌱 What Am I Learning: Currently, I'm in the process of mastering ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Cloud Computing(AWS)](https://img.shields.io/badge/Cloud%20Computing-232F3E?style=flat&logo=amazon-aws&logoColor=white), & ![EDA](https://img.shields.io/badge/EDA-333333?style=flat&logo=apache-kafka). 
+- 🌱 What Am I Learning: Currently, I'm learning & mastering Python Lang, Flask Framework, TensorFlow ML Framework. 
 - 👀 What Am I Interested In: constant learning, exploring and coaching (not just limited to IT).
 - ⏭️ What's Next: more contribution to OpenSource & InnerSource and getting my feet wet with ML & DataScience.
 
