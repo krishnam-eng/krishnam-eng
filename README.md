@@ -127,24 +127,29 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 
+
 - [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training) [⏳ in progress]
-- [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming) [⏳ in progress]
+- [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
+- [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [Visual Studio Code for Python Developers](https://www.linkedin.com/learning/visual-studio-code-for-python-developers)
 - [Developing with Visual Studio Code](https://www.linkedin.com/learning/developing-with-visual-studio-code)
-- [Learning Python](https://www.linkedin.com/learning/learning-python) 
+
 - [AWK Essential Training](https://www.linkedin.com/learning/awk-essential-training)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2)
+- [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
+
+- [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line)
-- [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
-- [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
-- [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
 - [Learning zsh](https://www.linkedin.com/learning/learning-zsh/introducing-zsh)
 - [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2)
+
 - [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux)
 - [Learning Ubuntu Desktop](https://www.linkedin.com/learning/learning-ubuntu-desktop)
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
+
+- [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
 
 
 ###### **_2020_**
