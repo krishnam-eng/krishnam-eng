@@ -129,8 +129,8 @@ This list shows some of the courses/training that I took while getting my hands 
 
 
 - [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training) [⏳ in progress]
-- [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
+- [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [Visual Studio Code for Python Developers](https://www.linkedin.com/learning/visual-studio-code-for-python-developers)
 - [Developing with Visual Studio Code](https://www.linkedin.com/learning/developing-with-visual-studio-code)
