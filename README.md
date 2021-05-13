@@ -5,7 +5,7 @@ Hi There 👋,
 I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ What I Love: problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends, and along the way try disseminating knowledge for the love of the tech community.
-- 🌱 What Am I Learning: Currently, I'm learning & mastering Python Lang Ecosystem, Flask Framework, TensorFlow ML Framework. 
+- 🌱 What Am I Learning: Currently, I'm learning & mastering ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Ecosystem, ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white) Framework, ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=flat&logo=tensorflow&logoColor=white) ML Framework. 
 - 👀 What Am I Interested In: constant learning, exploring and coaching (not just limited to IT).
 - ⏭️ What's Next: more contribution to OpenSource & InnerSource and getting my feet wet with ML & DataScience.
 
@@ -14,7 +14,9 @@ I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic ex
 ------
 ###### Skill Set
 - **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white)
-- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white), ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle) 
+- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white)
+- **Build Tools:** ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle) 
+- **WebServers:** ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black)
 - **Database:** ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 - **Environment & Dev Tools:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![zsh](https://img.shields.io/badge/zsh-black?style=flat&logo=powershell&logoColor=white), ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white), ![nano](https://img.shields.io/badge/nano-A42E2B?style=flat&logo=gnu&logoColor=white), ![ssh](https://img.shields.io/badge/ssh-3423A6?style=flat&logo=webauthn&logoColor=white), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git),, ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket) , ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - **Other Tools:** ![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white), ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
@@ -127,7 +129,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 
-
+- [Learning NGINX](https://www.linkedin.com/learning/learning-nginx)
 - [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training) [⏳ in progress]
 - [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
