@@ -213,6 +213,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ✍️ **Latest Blog Posts**
 ------
+- [Continuous Inspection: 3 Steps to Manage Complexity](https://dev.to/krishnam/continuous-inspection-3-steps-to-manage-complexity-5ii) (May-21)
 - [tmux: 13 Cool Tweaks to Make It Personal and Powerful](https://dev.to/krishnam/tmux-13-cool-tweaks-to-make-it-personal-and-powerful-487p) (Apr-21)
 - [Productivity Booster: Command Line Happiness with tmux](https://dev.to/krishnam/dev-productivity-command-line-happiness-with-terminal-multiplexing-5067) (Apr-21)
 - [Why Kotlin: A Note From a Java Developer](https://dev.to/krishnam/why-kotlin-a-note-from-java-developer-2n6h) (Apr-21)
