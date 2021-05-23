@@ -34,8 +34,9 @@ This is my journey in books since 2010 _(along with my rating, I'm listing only 
 ###### **_2021_**
 - [Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond](https://www.goodreads.com/book/show/49912861-java-performance?from_search=true&from_srp=true&qid=XlPF7oHDEx&rank=1) [⏳ in progress]
 - [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.goodreads.com/book/show/28321007-the-hitchhiker-s-guide-to-python) [⏳ in progress]
-- [Effective awk Programming: Text Processing and Pattern Matching](https://www.goodreads.com/book/show/720823.Effective_awk_Programming)
+- [Effective awk Programming: Text Processing and Pattern Matching](https://www.goodreads.com/book/show/720823.Effective_awk_Programming) [60% and the rest is reference]
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) [⭐⭐⭐]
+- [Learning Shell Scripting with Zsh](https://www.goodreads.com/book/show/20609696-learning-shell-scripting-with-zsh?from_search=true&from_srp=true&qid=wC3jkckub4&rank=1)  [⭐⭐⭐⭐]
 - [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) [⭐⭐⭐⭐]
 - [Getting Started with Tmux](https://www.goodreads.com/book/show/23313545-getting-started-with-tmux) [⭐⭐⭐⭐]
 - [The Tao of tmux: and Terminal Tricks](https://www.goodreads.com/book/show/33246223-the-tao-of-tmux) [⭐⭐⭐]
