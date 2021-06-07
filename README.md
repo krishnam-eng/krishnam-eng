@@ -5,7 +5,8 @@ Hi There 👋,
 I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ What I Love: problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends, and along the way try disseminating knowledge for the love of the tech community.
-- 🌱 What Am I Learning: Currently, I'm learning & mastering ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Ecosystem, ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white) Framework, ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=flat&logo=tensorflow&logoColor=white) ML Framework. 
+- 🌱 What Am I Learning: Currently, I'm learning, practicing & mastering EDA Ecosystem.
+- What might be next: ML & DataScience . 
 - 👀 What Am I Interested In: constant learning, exploring and coaching (not just limited to IT).
 - ⏭️ What's Next: more contribution to OpenSource & InnerSource and getting my feet wet with ML & DataScience.
 
@@ -14,7 +15,7 @@ I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic ex
 ------
 ###### Skill Set
 - **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white)
-- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white)
+- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white), ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white)
 - **Build Tools:** ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle) 
 - **WebServers:** ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black)
 - **Database:** ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
