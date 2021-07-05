@@ -215,11 +215,12 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ✍️ **Latest Blog Posts**
 ------
-- [Continuous Inspection: 3 Steps to Manage Complexity](https://dev.to/krishnam/continuous-inspection-3-steps-to-manage-complexity-5ii) (May-21)
-- [tmux: 13 Cool Tweaks to Make It Personal and Powerful](https://dev.to/krishnam/tmux-13-cool-tweaks-to-make-it-personal-and-powerful-487p) (Apr-21)
-- [Productivity Booster: Command Line Happiness with tmux](https://dev.to/krishnam/dev-productivity-command-line-happiness-with-terminal-multiplexing-5067) (Apr-21)
-- [Why Kotlin: A Note From a Java Developer](https://dev.to/krishnam/why-kotlin-a-note-from-java-developer-2n6h) (Apr-21)
-- [Reliability: Two Mistakes High](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4) (Mar-21)
+- Multidimensional Scalability Model for Application [Medium](https://krishnam-bala.medium.com/multidimensional-scalability-model-for-application-3da1c0ed03e8) [dev.to](https://dev.to/krishnam/multidimensional-scalability-model-for-application-29ml) (July-21)
+- Continuous Inspection: 3 Steps to Manage Complexity [dev.to](https://dev.to/krishnam/continuous-inspection-3-steps-to-manage-complexity-5ii) (May-21)
+- tmux: 13 Cool Tweaks to Make It Personal and Powerful [dev.to](https://dev.to/krishnam/tmux-13-cool-tweaks-to-make-it-personal-and-powerful-487p) (Apr-21)
+- Productivity Booster: Command Line Happiness with tmux [dev.to](https://dev.to/krishnam/dev-productivity-command-line-happiness-with-terminal-multiplexing-5067) (Apr-21)
+- Why Kotlin: A Note From a Java Developer [dev.to](https://dev.to/krishnam/why-kotlin-a-note-from-java-developer-2n6h) (Apr-21)
+- Reliability: Two Mistakes High [Medium](https://krishnam-bala.medium.com/reliability-two-mistakes-high-5d043c2d0ef4) [dev.to](https://dev.to/krishnam/reliability-two-mistakes-high-9hp) (Mar-21)
 
 
 ☁️ My Life in Cyberspace (and How to Reach Me There)
