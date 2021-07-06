@@ -226,9 +226,10 @@ This list shows some of the courses/training that I took while getting my hands 
 ☁️ My Life in Cyberspace
 ------
 Here is My Life in Cyberspace and How to Reach Me There.
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/balastance): _To view my stance and favitote quotes on programming/design/architecture/technology/science_ 
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/): _To view my tech blogs (topics: design/architecture/reliability)_
-- [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam): _To view my tech blogs (topics: dev-tools/programming/frameworks)_
+
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/balastance): _To view my stance and favitote quotes on programming, design, architecture, technology, and science topics
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/): _To view my tech blogs on design, architecture, reliability topics
+- [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam): _To view my tech blogs on dev-productivity, programming, frameworks, and dev-tools topics
 - [![Goodread](https://img.shields.io/badge/Goodread-read(70)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy): _To view my curated book lists (to know what I reading and what I reviewed)_
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan.eng@gmail.com): _To get in touch with me_
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalamurugan/): _To view my professional journey, experience and skill sets_
