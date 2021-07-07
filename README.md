@@ -230,7 +230,7 @@ Here is My Life in Cyberspace and How to Reach Me There.
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/balastance) _To view my stance and favourite quotes on programming, design, architecture, technology, and science topics_
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) _To view my tech blogs on design, architecture, reliability topics_
 - [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam) _To view my tech blogs on dev-productivity, programming, frameworks, and dev-tools topics_
-- [![Goodread](https://img.shields.io/badge/Goodread-read(70)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy) _To view my curated book reading-lists and to know what I'm reading/reviewed_
+- [![Goodread](https://img.shields.io/badge/Goodread-read(70)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy) _To view my curated book reading-lists and to know what I'm reading and I reviewed_
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan.eng@gmail.com) _To get in touch with me_
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/krishna.balamurugan/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabalamurugan/) _To view my professional journey, experience and skill sets_
