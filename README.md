@@ -228,7 +228,7 @@ This list shows some of the courses/training that I took while getting my hands 
 Here is My Life in Cyberspace and How to Reach Me There.
 
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/balastance) _To view my stance and favourite quotes on programming, design, architecture, technology, and science topics_
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) _To view my tech blogs on design, architecture, reliability topics_
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) _To view my tech blogs on design, architecture, and reliability topics_
 - [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam) _To view my tech blogs on dev-productivity, programming, frameworks, and dev-tools topics_
 - [![Goodread](https://img.shields.io/badge/Goodread-read(60+)-blue)](https://www.goodreads.com/user/show/24746680-balamurugan-krishnamurthy) _To view my curated book reading-lists and to know what I'm reading and I reviewed_
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnam-eng/krishnam-eng) _To see my hobby coding play ground_ 
