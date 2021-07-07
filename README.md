@@ -33,6 +33,9 @@ This is my journey in books since 2010 _(along with my rating, I'm listing only 
  <summary> Click here to see the list...</summary>
  
 ###### **_2021_**
+
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) [⭐⭐⭐⭐]
+- [Designing Event-Driven Systems](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems) [⭐⭐⭐⭐]
 - [Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond](https://www.goodreads.com/book/show/49912861-java-performance?from_search=true&from_srp=true&qid=XlPF7oHDEx&rank=1) [⏳ in progress]
 - [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.goodreads.com/book/show/28321007-the-hitchhiker-s-guide-to-python) [⏳ in progress]
 - [Effective awk Programming: Text Processing and Pattern Matching](https://www.goodreads.com/book/show/720823.Effective_awk_Programming) [60% and the rest is reference]
