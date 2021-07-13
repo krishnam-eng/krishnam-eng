@@ -134,9 +134,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 
-- [Learning NGINX](https://www.linkedin.com/learning/learning-nginx)
-- [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training) [⏳ in progress]
-- [Python Standard Library Essential Training](https://www.linkedin.com/learning/python-standard-library-essential-training) [⏳ in progress]
+- [Advanced Comprehension Memory Course](advanced-comprehension-memory-course) [⏳ in progress]
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [IntelliJ IDEA Community Edition Essential Training](https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2)
@@ -145,6 +143,7 @@ This list shows some of the courses/training that I took while getting my hands 
 - [AWK Essential Training](https://www.linkedin.com/learning/awk-essential-training)
 - [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-2)
 - [Learning nano](https://www.linkedin.com/learning/learning-nano/welcome)
+- [Learning NGINX](https://www.linkedin.com/learning/learning-nginx) 
 - [Learning Apache Tomcat](https://www.linkedin.com/learning/learning-apache-tomcat)
 - [Learning SSH](https://www.linkedin.com/learning/learning-ssh)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line)
