@@ -134,7 +134,7 @@ This list shows some of the courses/training that I took while getting my hands 
 
 ###### **_2021_**
 
-- [Advanced Comprehension Memory Course](advanced-comprehension-memory-course) [⏳ in progress]
+- [Advanced Comprehension Memory Course](https://irisreading.com/course/advanced-comprehension-memory-course/) [⏳ in progress]
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [IntelliJ IDEA Community Edition Essential Training](https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2)
