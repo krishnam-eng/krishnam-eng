@@ -5,9 +5,8 @@ Hi There 👋,
 I'm, Bala, a passionate programmer, a pragmatic architect and an enthusiastic explorer. 
 
 - ✨ What I Love: problem-solving, book-reading on tech and cognitive science topics, creating visual arts, constantly skilling up for tech industry trends, and along the way try disseminating knowledge for the love of the tech community.
-- 🌱 What Am I Learning: Currently, I'm learning, practicing & mastering EDA Ecosystem.
-- What might be next: ML & DataScience . 
-- 👀 What Am I Interested In: constant learning, exploring and coaching (not just limited to IT).
+- 🌱 What Am I Learning: Currently, I'm learning, practicing & mastering EDA Ecosystem. Technology Side Exploration: Rust
+- 👀 What Am I Interested In: constant learning, exploring and coaching.
 - ⏭️ What's Next: more contribution to OpenSource & InnerSource and getting my feet wet with ML & DataScience.
 
 
