@@ -24,7 +24,7 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 📚 **My Years in Books**
 ------
-This is my journey in books since 2010 _(along with my rating, I'm listing only the books that I read cover-to-cover and ignoring all short reads where the book pages < 100)_
+This is my journey in books since 2010 _(ignoring all short reads [pages < 100] and the books that I skimmed only for reference)_
 
 <details>
  <summary> Click here to see the list...</summary>
