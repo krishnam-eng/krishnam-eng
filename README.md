@@ -5,8 +5,8 @@ Hi There 👋,
 I'm, Bala, an enthusiastic explorer, passionate programmer and pragmatic architect.
 
 - ✨ **What I Love:** problem-solving, book-reading on science & IT topics, creating visual arts, constantly upskilling, disseminating knowledge via writing tech blogs and giving tech talks (for the love of the tech community).
-- 🌱 **What Am I Learning/Practicing/Exploring Now:** EDA Ecosystem, Data Engineering, ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)
-- 👀 **What Am I Interested In** (or what I like do in my freetime): constant learning, exploring and coaching --- not limited to tech topic.
+- 🌱 **What Am I Practicing/Exploring Now:** EDA Ecosystem, Data Engineering, ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)
+- 📚 **What I like to Read About:** Favorite Topics - Software Architecture, Craftsmanship, Productivity, Science & Technology
 
 💪 **Ask Me About**
 ------
