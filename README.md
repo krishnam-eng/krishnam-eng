@@ -239,4 +239,4 @@ Here is My Life in Cyberspace and How to Reach Me There.
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/krishna.balamurugan/) _To ... I dont' know :thinking: maybe.. to waste your valuable time_
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="krishnabalamurugan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/krishnabalamurugan?trk=profile-badge">Balamurugan Krishnamoorthy</a></div>
