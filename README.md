@@ -29,7 +29,7 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 <details>
  <summary> Click here to see the list...</summary>
 
-###### **_ on or after 2020_**
+###### **_2020 to present_**
 
 - [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) [⭐⭐⭐⭐]
 - [Designing Event-Driven Systems](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems) [⭐⭐⭐⭐]
@@ -114,7 +114,7 @@ This list shows some of the courses/training that I took while getting my hands 
 <details>
  <summary> Click here to see the list...</summary>
 
-###### **_on or after 2021_**
+###### **_2020 to present_**
 
 - [Advanced Comprehension Memory Course](https://irisreading.com/course/advanced-comprehension-memory-course/) [⏳ in progress]
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
