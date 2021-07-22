@@ -28,8 +28,8 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 
 <details>
  <summary> Click here to see the list...</summary>
- 
-###### **_2021_**
+
+###### **_ on or after 2020_**
 
 - [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) [⭐⭐⭐⭐]
 - [Designing Event-Driven Systems](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems) [⭐⭐⭐⭐]
@@ -43,9 +43,6 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 - [The Tao of tmux: and Terminal Tricks](https://www.goodreads.com/book/show/33246223-the-tao-of-tmux) [⭐⭐⭐]
 - [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux) [⭐⭐]
 - [tmux Taster](https://www.goodreads.com/book/show/23958392-tmux-taster) [⭐⭐]
-
-###### **_2020_**
-
 - [Implementing Service Level Objectives: A Practical Guide to Slis, Slos, and Error Budgets](https://www.goodreads.com/book/show/51771842-implementing-service-level-objectives) [⭐⭐⭐⭐]
 - [Incident Management for Operations](https://www.goodreads.com/book/show/26457153-incident-management-for-operations) [⭐⭐⭐]
 - [The 5 Elements of Effective Thinking](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)[⭐⭐⭐⭐⭐]
@@ -59,7 +56,7 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up) [⭐⭐⭐]
 - [The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting](https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting) [⭐⭐⭐]
 
-###### **_2019_**
+###### **_2015 to 2019_**
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
@@ -70,19 +67,13 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 - [Ready for Anything: 52 Productivity Principles for Getting Things Done](https://www.goodreads.com/book/show/2581.Ready_for_Anything)
 - [The 4-Hour Workweek](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
 - [The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://www.goodreads.com/book/show/7148931-the-4-hour-body)
-- [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)
-
-###### **_2018_**
-
+- [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology) 
 - [Writing Tools: 50 Essential Strategies for Every Writer](https://www.goodreads.com/book/show/51750.Writing_Tools)
 - [The Little Blue Reasoning Book: 50 Powerful Principles for Clear and Effective Thinking](https://www.goodreads.com/book/show/9536958-the-little-blue-reasoning-book)
 - [Mid-Career Crisis: Why Some Sail through While Others Don't](https://www.goodreads.com/book/show/24859173-mid-career-crisis)
 - [10 Steps to Mastering Stress: A Lifestyle Approach](https://www.goodreads.com/book/show/18579600-10-steps-to-mastering-stress)
 - [Fish!: A remarkable way to boost morale and improve results](https://www.goodreads.com/book/show/19179160-fish)
 - [Business Grammar, Style & Usage: A Desk Reference for Articulate & Polished Business Writing & Speaking](https://www.goodreads.com/book/show/75447.Business_Grammar_Style_Usage)
-
-###### **_2017_**
-
 - [What Your Doctor Doesn't Know About Nutritional Medicine May Be Killing You](https://www.goodreads.com/book/show/20201348-what-your-doctor-doesn-t-know-about-nutritional-medicine-may-be-killing)
 - [Dogbert's Top Secret Management Handbook](https://www.goodreads.com/book/show/783374.Dogbert_s_Top_Secret_Management_Handbook)
 - [Dilbert and the Way of the Weasel](https://www.goodreads.com/book/show/425611.Dilbert_and_the_Way_of_the_Weasel)
@@ -90,15 +81,9 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 - [Losing It! Making Weight Loss Simple](https://www.goodreads.com/book/show/20444470-losing-it-making-weight-loss-simple)
 - [13 Steps to Bloody Good Luck](https://www.goodreads.com/book/show/23586700-13-steps-to-bloody-good-luck)
 - [13 Steps to Bloody Good Wealth](https://www.goodreads.com/book/show/32791728-13-steps-to-bloody-good-wealth)
-
-###### **_2016_**
-
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [My Journey: Transforming Dreams into Actions](https://www.goodreads.com/book/show/27222159-my-journey)
 - [The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fads & Other Workplace Afflictions](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle)
-
-###### **_2015_**
-
 - [Who Moved My Cheese: An Amazing Way to Deal with Change in Your Work and in Your Life](https://www.goodreads.com/book/show/25962556-who-moved-my-cheese)
 - [What the Most Successful People Do Before Breakfast: A Short Guide to Making Over Your Mornings--and Life](https://www.goodreads.com/book/show/18634501-what-the-most-successful-people-do-before-breakfast)
 
@@ -129,7 +114,7 @@ This list shows some of the courses/training that I took while getting my hands 
 <details>
  <summary> Click here to see the list...</summary>
 
-###### **_2021_**
+###### **_on or after 2021_**
 
 - [Advanced Comprehension Memory Course](https://irisreading.com/course/advanced-comprehension-memory-course/) [⏳ in progress]
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
@@ -150,10 +135,6 @@ This list shows some of the courses/training that I took while getting my hands 
 - [Learning Ubuntu Desktop](https://www.linkedin.com/learning/learning-ubuntu-desktop)
 - [Learning Virtualbox](https://www.linkedin.com/learning/learning-virtualbox-2)
 - [Craft a Great GitHub Profile](https://www.linkedin.com/learning/craft-a-great-github-profile)
-
-
-###### **_2020_**
-
 - [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture)
 - [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
 - [Continuous Monitoring: The Big Picture](https://app.pluralsight.com/library/courses/continuous-monitoring-big-picture)
