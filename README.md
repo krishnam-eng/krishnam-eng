@@ -234,5 +234,5 @@ Here is My Life in Cyberspace and How to Reach Me There.
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnam-eng/krishnam-eng) _To see my hobby coding play ground_ 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnambalamurugan/) _To view my professional journey, experience and skill sets_
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan@gmail.com) _To get in touch with me_
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/krishna.balamurugan/) _To ...:thinking:_
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/krishna.balamurugan/) _To ...:thinking: (thinking...)_
 
