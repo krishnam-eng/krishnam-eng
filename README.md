@@ -109,7 +109,7 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 🗒️ **My Years in Training**
 ------
 
-This list shows some of the courses/training that I took while getting my hands dirty on these topics  _(Some of them are to refresh/rehash on foundation and fundamentals to find the missed out hidden gems or to learn/practice the old concepts in a new perspective)_
+So far, I took 50+ Trainings from LinkedIn-Learning, PluralSight, and Harvard-Manage-Mentor Platforms on various IT industry and soft skill topics. This list shows some of the courses/training that I took while getting my hands dirty on these topics.
 
 <details>
  <summary> Click here to see the list...</summary>
