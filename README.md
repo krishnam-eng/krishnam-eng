@@ -10,8 +10,8 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 💪 **Ask Me About**
 ------
-###### Skill Set
-
+#### Skill Set
+##### Tools  & Technologies
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white)
 
 - **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![SpringBatch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=black), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white), ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white)
@@ -20,14 +20,15 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 - **Build Tools:**  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle), ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white), ![Ant](https://img.shields.io/badge/Ant-A81C7D?style=flat&logo=apacheant)
 
+- **Deploy Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black), ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black)
 
-- **WebServers:** ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black)
 - **Database:** ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-- **Environment & Dev Tools:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black), ![zsh](https://img.shields.io/badge/zsh-black?style=flat&logo=powershell&logoColor=white), ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white), ![nano](https://img.shields.io/badge/nano-A42E2B?style=flat&logo=gnu&logoColor=white), ![ssh](https://img.shields.io/badge/ssh-3423A6?style=flat&logo=webauthn&logoColor=white), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git),, ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket) , ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-- **Other Tools:** ![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white), ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
-- **IT Industry Knowledge:** Design Principles, Object Oriented Design, AOP, Test Driven Development, Software Project Management, Program Management, SDLC,...
-- **Interpersonal Skills:** Decision-Making, Presentations, Time Management...
-- **Other Skills:** Presentation Design, Video Editing, Online Survey Design,..[.](https://simpleicons.org/) 
+
+- **Other Dev Tools:** ![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white), ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![svn](https://img.shields.io/badge/-svn-809CC9?style=flat&logo=subversion&logoColor=white)
+
+- **Environment:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![zsh](https://img.shields.io/badge/zsh-black?style=flat&logo=powershell&logoColor=white), ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white), ![nano](https://img.shields.io/badge/nano-A42E2B?style=flat&logo=gnu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+- **Misc. Tools:** ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
 
 📚 **My Years in Books**
 ------
