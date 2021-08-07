@@ -28,14 +28,14 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 - **Other Dev Tools:** ![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white), ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white), ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github), ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![svn](https://img.shields.io/badge/-svn-809CC9?style=flat&logo=subversion&logoColor=white)*
 
-- **Environment:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![zsh](https://img.shields.io/badge/zsh-black?style=flat&logo=powershell&logoColor=white), ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white), ![nano](https://img.shields.io/badge/nano-A42E2B?style=flat&logo=gnu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+- **Development Environments:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white), ![zsh](https://img.shields.io/badge/zsh-black?style=flat&logo=powershell&logoColor=white), ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white), ![nano](https://img.shields.io/badge/nano-A42E2B?style=flat&logo=gnu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white), ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)*, ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white), ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
 
 - **Misc. Tools:** ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
 
 _The above list shows the tools & technologies that I used through building enterprise applications (or hobby projects)_
 
 - _* => not recently used mainly because it was outdated, or my current projects didn't require them_
-- _**-**  => currently learning and exploring_
+- _**\_**  => currently learning and exploring_
 
 
 📚 **My Years in Books**
