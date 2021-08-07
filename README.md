@@ -209,7 +209,7 @@ So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard
 
 </details>
 
-✍️ **Latest Blog Posts**
+✍️ **My Latest Blog Posts**
 ------
 - Power of Emergent Behaviour in a Complex System [Medium](https://krishnam-bala.medium.com/emergent-behaviour-in-a-complex-system-it-org-3f1924d36814) [dev.to](https://dev.to/krishnam/power-of-emergent-behaviour-in-a-complex-system-1b25) (July-21)
 - Multidimensional Scalability Model for Application [Medium](https://krishnam-bala.medium.com/multidimensional-scalability-model-for-application-3da1c0ed03e8) [dev.to](https://dev.to/krishnam/multidimensional-scalability-model-for-application-29ml) (July-21)
