@@ -32,10 +32,10 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 - **Misc. Tools:** ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
 
-_The above list shows the tools & technologies that I used through building exterprise applicaitons (or hobby projects)_
+_The above list shows the tools & technologies that I used through building enterprise applications (or hobby projects)_
 
-_* => not recently used mainly because it was outdated, or my current projects didn't require them_
-_**-**  => currently learning and exploring_
+- _* => not recently used mainly because it was outdated, or my current projects didn't require them_
+- _**-**  => currently learning and exploring_
 
 
 📚 **My Years in Books**
