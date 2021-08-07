@@ -8,9 +8,8 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 - 🌱 **What Am I Practicing/Learning/Exploring Now:** EDA Ecosystem, Data Engineering, Cloud Computing, ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)
 - 📚 **What I like to Read/Talk About:** Favorite Topics - Software Architecture, Craftsmanship, Productivity, Science & Technology
 
-💪 **Ask Me About**
+💪 **Ask Me About (_Skill Set_)**
 ------
-#### Skill Set
 ##### Tools  & Technologies
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)**-**, ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)*, ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)**-**
 
