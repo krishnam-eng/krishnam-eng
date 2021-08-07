@@ -125,7 +125,7 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 🗒️ **My Years in Training**
 ------
 
-So far, I took 50+ Trainings from LinkedIn-Learning, PluralSight, and Harvard-Manage-Mentor Platforms on various IT industry and soft skill topics. This list shows some of the courses/training that I took while getting my hands dirty on these topics.
+So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard-Manage-Mentor, and Udemy Platforms on various IT industry and soft skill topics. _This list shows some of the courses/training that I took while getting my hands dirty on these topics._
 
 <details>
  <summary> Click here to see the list...</summary>
