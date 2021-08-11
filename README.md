@@ -22,7 +22,7 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 - **Build Tools:**  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle), ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white), ![Ant](https://img.shields.io/badge/Ant-A81C7D?style=flat&logo=apacheant)*, ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
-- **Deploy Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white), ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black), ![AWS](https://img.shields.io/badge/AWS-232F3E?&style=flat&logo=amazonaws&logoColor=white)
+- **Deploy Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white), ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=flat&logo=nginx&logoColor=white), ![Apache](https://img.shields.io/badge/ApacheHTTP-D22128?&style=flat&logo=apache&logoColor=white)*\**, ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?&style=flat&logo=apache-tomcat&logoColor=black), ![AWS](https://img.shields.io/badge/AWS-232F3E?&style=flat&logo=amazonaws&logoColor=white)
 
 - **Monitor Tools:** ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=white), ![Newrelic](https://img.shields.io/badge/Newrelic-008C99?style=flat&logo=newrelic&logoColor=white)*, ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
 
