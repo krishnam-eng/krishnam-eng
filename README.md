@@ -49,33 +49,36 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 
 ###### **_2020 to present_**
 
-- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) [⭐⭐⭐⭐]
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) [⭐⭐⭐⭐⭐]
+- [Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder) [⭐⭐⭐⭐⭐]
 - [Designing Event-Driven Systems](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems) [⭐⭐⭐⭐]
-- [Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond](https://www.goodreads.com/book/show/49912861-java-performance?from_search=true&from_srp=true&qid=XlPF7oHDEx&rank=1) [⏳ in progress]
-- [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.goodreads.com/book/show/28321007-the-hitchhiker-s-guide-to-python) [⏳ in progress]
-- [Effective awk Programming: Text Processing and Pattern Matching](https://www.goodreads.com/book/show/720823.Effective_awk_Programming) [60% and the rest is reference]
+- [Implementing Service Level Objectives: A Practical Guide to Slis, Slos, and Error Budgets](https://www.goodreads.com/book/show/51771842-implementing-service-level-objectives) [⭐⭐⭐⭐]
+- [Incident Management for Operations](https://www.goodreads.com/book/show/26457153-incident-management-for-operations) [⭐⭐⭐]
 - [Complex Enterprise Architecture: A New Adaptive Systems Approach](https://www.goodreads.com/book/show/42832475-complex-enterprise-architecture) [⭐⭐⭐]
+- [The 5 Elements of Effective Thinking](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)[⭐⭐⭐⭐⭐]
+- [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.goodreads.com/book/show/28321007-the-hitchhiker-s-guide-to-python) [40% and the rest is reference]
+- [Effective awk Programming: Text Processing and Pattern Matching](https://www.goodreads.com/book/show/720823.Effective_awk_Programming) [60% and the rest is reference]
 - [Learning Shell Scripting with Zsh](https://www.goodreads.com/book/show/20609696-learning-shell-scripting-with-zsh?from_search=true&from_srp=true&qid=wC3jkckub4&rank=1)  [⭐⭐⭐⭐]
 - [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/book/show/32302568-tmux-2) [⭐⭐⭐⭐]
 - [Getting Started with Tmux](https://www.goodreads.com/book/show/23313545-getting-started-with-tmux) [⭐⭐⭐⭐]
 - [The Tao of tmux: and Terminal Tricks](https://www.goodreads.com/book/show/33246223-the-tao-of-tmux) [⭐⭐⭐]
 - [Painless Tmux: A Sane Person's Guide to Command Line Happiness](https://www.goodreads.com/book/show/29233199-painless-tmux) [⭐⭐]
 - [tmux Taster](https://www.goodreads.com/book/show/23958392-tmux-taster) [⭐⭐]
-- [Implementing Service Level Objectives: A Practical Guide to Slis, Slos, and Error Budgets](https://www.goodreads.com/book/show/51771842-implementing-service-level-objectives) [⭐⭐⭐⭐]
-- [Incident Management for Operations](https://www.goodreads.com/book/show/26457153-incident-management-for-operations) [⭐⭐⭐]
-- [The 5 Elements of Effective Thinking](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)[⭐⭐⭐⭐⭐]
 - [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models) [⭐⭐⭐⭐]
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) [⭐⭐⭐⭐⭐]
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) [⭐⭐⭐⭐⭐]
 - [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://www.goodreads.com/book/show/9420697-the-compound-effect) [⭐⭐⭐]
 - [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing) [⭐⭐⭐⭐]
 - [Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18077875-essentialism) [⭐⭐⭐⭐⭐]
-- [The Bullet Journal Method: Track the Past, Order the Present, Design the Future](https://www.goodreads.com/book/show/39071691-the-bullet-journal-method) [⭐⭐⭐⭐]
 - [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up) [⭐⭐⭐]
 - [The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting](https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting) [⭐⭐⭐]
+- [The Bullet Journal Method: Track the Past, Order the Present, Design the Future](https://www.goodreads.com/book/show/39071691-the-bullet-journal-method) [⭐⭐⭐⭐]
+
 
 ###### **_2015 to 2019_**
 
+- [Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+- [Apache Maven](https://www.goodreads.com/book/show/25846636-apache-maven-cookbook)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 - [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.goodreads.com/book/show/6589966-eat-that-frog)
@@ -108,7 +111,10 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 ###### **Before _2015_**
  
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Head First Object Oriented Analysis and Design](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design)
 - [Effective Programming: More Than Writing Code](https://www.goodreads.com/book/show/15746409-effective-programming)
+- [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java)
+- [iBATIS in Action](https://www.goodreads.com/book/show/332070.iBATIS_in_Action)
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [Presentation Secrets of Steve Jobs](https://www.goodreads.com/book/show/11490113-presentation-secrets-of-steve-jobs)
 - [How to Be a Presentation God: Build, Design, and Deliver Presentations That Dominate](https://www.goodreads.com/book/show/9642028-how-to-be-a-presentation-god)
