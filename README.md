@@ -137,10 +137,9 @@ So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard
 
 <details>
  <summary> Click here to see the list...</summary>
- _This list shows some of the courses/training that I took while getting my hands dirty on these topics._
 ###### **_2020 to present_**
 
-- [Advanced Comprehension Memory Course](https://irisreading.com/course/advanced-comprehension-memory-course/) [⏳ in progress]
+- [Advanced Comprehension Memory Course](https://irisreading.com/course/advanced-comprehension-memory-course/)
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/python-object-oriented-programming)
 - [Learning Python](https://www.linkedin.com/learning/learning-python) 
 - [IntelliJ IDEA Community Edition Essential Training](https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2)
