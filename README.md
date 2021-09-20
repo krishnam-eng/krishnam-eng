@@ -2,7 +2,7 @@
 ------
 Hi There 👋, 
 
-I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic architect with 14+ years of IT experience in the FinTech realm.
+I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic architect with 14+ years of IT experience in the FinTech realm. _(more in [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnambalamurugan/) )_
 
 - 📚 **What I like to Read/Talk About:** Favorite Topics - Software Architecture, Craftsmanship, Productivity, Science & Technology
 - ✨ **What I Love:** problem-solving, book-reading, creating visual arts, continuous upskilling, and disseminating knowledge via tech talks & blogs (just for the love of the tech).
@@ -231,12 +231,12 @@ So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard
 
 ☁️ My Life in Cyberspace
 ------
-
-- [![Goodread](https://img.shields.io/badge/Goodread-read(70+)-blue)](https://www.goodreads.com/krishnam) _To view what I read and review (it has my curated book reading-lists too)_
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan@gmail.com) _To get in touch with me_
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnambalamurugan/) _To view my professional journey, experience and skill sets_
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/balastance) _To view my stance and favourite quotes on programming, design, architecture, technology, and science topics_
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) _To view my tech blogs on design, architecture, and reliability topics_
 - [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam) _To view my tech blogs on dev-productivity, programming, frameworks, and dev-tools topics_
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnam-eng/krishnam-eng) _To see my consolidated profile and hobby coding playground (all incubation/practice repo are kept private)_ 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnam.balamurugan@gmail.com) _To get in touch with me_
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnambalamurugan/) _To view my professional journey, experience and skill sets_
+- [![Goodread](https://img.shields.io/badge/Goodread-read(70+)-blue)](https://www.goodreads.com/krishnam) _To view what I read and review (it has my curated book reading-lists too)_
+
 
