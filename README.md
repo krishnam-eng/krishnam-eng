@@ -1,3 +1,12 @@
+# Table of Contents
+* [About Me](https://github.com/krishnam-eng/krishnam-eng#-about-me)
+* [Ask Me About](https://github.com/krishnam-eng/krishnam-eng#-ask-me-about-skill-set)
+* [My Years in Books](https://github.com/krishnam-eng/krishnam-eng#-my-years-in-books)
+* [My Years in Training](https://github.com/krishnam-eng/krishnam-eng#%EF%B8%8F-my-years-in-training)
+* [My Latest Blog Posts](https://github.com/krishnam-eng/krishnam-eng#%EF%B8%8F-my-latest-blog-posts)
+* [My Life in Cyberspace](https://github.com/krishnam-eng/krishnam-eng#%EF%B8%8F-my-life-in-cyberspace)
+
+
 👨‍💼 **About Me**
 ------
 Hi There 👋, 
@@ -9,7 +18,7 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 - 🌱 **What Am I currently Practicing/Learning/Exploring Now:** EDA Ecosystem, Data Engineering, Cloud Computing, ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)
 
 
-💪 **Ask Me About (_Skill Set_)**
+💪 **Ask Me About (Skill Set)**
 ------
 ##### Tools  & Technologies
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)**-**, ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)*, ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)**-**
@@ -40,9 +49,18 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 - _**\_**  => currently learning and exploring_
 </details>
 
+##### Industry Knowledge & Other Skills
+* Software Architecture Practices & Styles
+* Design Principles & Patterns
+* Test-Driven Development
+* Cloud Computing
+* Agile Framework
+* SRE Principles
+* Technical Writing and Blogging
+
 📚 **My Years in Books**
 ------
-This is my journey in books since 2010 _(ignoring all short reads [pages < 100] and the books that I skimmed only for reference)_
+[![Goodread](https://img.shields.io/badge/Goodread-read(75+)-blue)](https://www.goodreads.com/krishnam) This is my journey in books since 2010 _(ignoring all short reads [pages < 100] and the books that I skimmed only for reference)_
 
 <details>
  <summary> Click here to see the list...</summary>
@@ -133,7 +151,7 @@ This is my journey in books since 2010 _(ignoring all short reads [pages < 100] 
 🗒️ **My Years in Training**
 ------
 
-So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard-Manage-Mentor, and Udemy Platforms on various IT industry and soft skill topics.
+So far, I took around 100+ Trainings from LinkedIn-Learning, PluralSight, Harvard-Manage-Mentor, and Udemy Platforms on various IT industry and soft skill topics to keep myself updated.
 
 <details>
  <summary> Click here to see the list...</summary>
@@ -236,6 +254,6 @@ So far, I took around 60+ Trainings from LinkedIn-Learning, PluralSight, Harvard
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://krishnam-bala.medium.com/) _To view my tech blogs on design, architecture, and reliability topics_
 - [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/krishnam) _To view my tech blogs on dev-productivity, programming, frameworks, and dev-tools topics_
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnam-eng/krishnam-eng) _To see my consolidated profile and hobby coding playground (all incubation/practice repo are kept private)_ 
-- [![Goodread](https://img.shields.io/badge/Goodread-read(70+)-blue)](https://www.goodreads.com/krishnam) _To view what I read and review (it has my curated book reading-lists too)_
+- [![Goodread](https://img.shields.io/badge/Goodread-read(75+)-blue)](https://www.goodreads.com/krishnam) _To view what I read and review (it has my curated book reading-lists too)_
 
 
