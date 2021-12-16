@@ -22,7 +22,7 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 ##### Tools  & Technologies
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-2c001e?style=flat&logo=gnu-bash), ![awk](https://img.shields.io/badge/AWK-red?style=flat&logo=powershell&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)**-**
 
-- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![SpringBatch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=black), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white), ![Struts](https://img.shields.io/badge/Struts-D22128?&style=flat&logo=apache&logoColor=white)*\**, ![Drools](https://img.shields.io/badge/Drools-DC382D?&style=flat&logo=drools&logoColor=white), ![cakePHP](https://img.shields.io/badge/cakePHP-D33C43?&style=flat&logo=cakephp&logoColor=white)*, ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white)**-**
+- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), ![SpringBatch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=black), ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-22172b?style=flat&Color=white), ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&Color=white), ![Struts](https://img.shields.io/badge/Struts-D22128?&style=flat&logo=apache&logoColor=white)*\**, ![Drools](https://img.shields.io/badge/Drools-DC382D?&style=flat&logo=drools&logoColor=white), ![cakePHP](https://img.shields.io/badge/cakePHP-D33C43?&style=flat&logo=cakephp&logoColor=white)*, ![Flask](https://img.shields.io/badge/Flask-000000?&style=flat&logo=flask&logoColor=white)**-**
 
 - **Test Tools:**  ![JUnit](https://img.shields.io/badge/Junit-25A162?style=flat&logo=junit5), ![Hamcrest](https://img.shields.io/badge/Hamcrest-22172b?style=flat&Color=white), ![REST Assured](https://img.shields.io/badge/RESTAssured-22172b?style=flat&Color=white), ![Mockito](https://img.shields.io/badge/Mockito-22172b?style=flat&Color=white), ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter)
 
@@ -42,13 +42,6 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 
 - **Misc. Tools:** ![OneNote](https://img.shields.io/badge/%20OneNote-7719AA?style=flat&logo=microsoft-onenote&logoColor=white), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white), ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Audacity](https://img.shields.io/badge/Audacity-%230000CC.svg?&style=flat&logo=audacity&logoColor=white), ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=black), ![Photoshop](https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
 
-<details>
- <summary> footnote...</summary>
- The above list shows the tools & technologies that I used through building enterprise applications (or hobby projects)
-
-- _* => not recently used mainly because it was outdated, or my current projects didn't require them_
-- _**\_**  => currently learning and exploring_
-</details>
 
 ##### Industry Knowledge & Other Skills
 * Software Architecture Practices & Styles
@@ -58,6 +51,23 @@ I am Bala, an enthusiastic explorer, a passionate programmer, and a pragmatic ar
 * Agile Framework
 * SRE Principles
 * Technical Writing and Blogging
+
+##### Experiences in Design/Architectural Styles, Patterns, and Practices
+* N-Tier Architecture
+* Microservice Architecture
+* Event Driven Architecture
+* Aspect Oriented Programming 
+* Object Oriented Programming
+* Domain Driven Design_
+* Actor Based Model_
+
+<details>
+ <summary> footnote...</summary>
+ The above list shows the tools & technologies that I used through building enterprise applications (or hobby projects)
+
+- _* => not recently used mainly because it was outdated, or my current projects didn't require them_
+- _**\_**  => currently learning and exploring_
+</details>
 
 📚 **My Years in Books**
 ------
