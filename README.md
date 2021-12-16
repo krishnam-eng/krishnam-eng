@@ -236,6 +236,7 @@ So far, I took around 100+ Trainings from LinkedIn-Learning, PluralSight, Harvar
 
 ✍️ **My Latest Blog Posts**
 ------
+- Effective Modeling: Let’s Start Here [Medium](https://krishnam-bala.medium.com/effective-modeling-lets-start-here-4e431d54145d)
 - Power of Emergent Behaviour in a Complex System [Medium](https://krishnam-bala.medium.com/emergent-behaviour-in-a-complex-system-it-org-3f1924d36814) [dev.to](https://dev.to/krishnam/power-of-emergent-behaviour-in-a-complex-system-1b25) (July-21)
 - Multidimensional Scalability Model for Application [Medium](https://krishnam-bala.medium.com/multidimensional-scalability-model-for-application-3da1c0ed03e8) [dev.to](https://dev.to/krishnam/multidimensional-scalability-model-for-application-29ml) (July-21)
 - Continuous Inspection: 3 Steps to Manage Complexity [dev.to](https://dev.to/krishnam/continuous-inspection-3-steps-to-manage-complexity-5ii) (May-21)
