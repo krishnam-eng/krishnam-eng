@@ -65,3 +65,10 @@
 #### Advanced
 * Certified Kubernetes Application Developer
 * Certified Kubernetes Administrator
+
+### Books
+#### B
+* Core Kubernetes (Jay Vyas, Chris Love) (2022) [Manning]
+#### I
+#### A
+
