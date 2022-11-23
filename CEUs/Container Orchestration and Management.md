@@ -24,9 +24,9 @@
 * Extending Kubernetes with Operator (2022)
 * Kubernetes: GitOps with ArgoCD (2021)
 
-## Pluralsight
+### Pluralsight
 
-### Beginner
+#### Beginner
 * Kubernetes for Developers: Core Concepts (2021)
 * Getting Started with Kubernetes (2020)
 * Docker and Kubernetes: The Big Picture (2019)
@@ -62,5 +62,6 @@
 * Managing Ingress Traffic Patterns for Kubernetes Services (2021)
 
 ### CloudAcademy
+#### Advanced
 * Certified Kubernetes Application Developer
 * Certified Kubernetes Administrator
