@@ -53,9 +53,14 @@
 * Kubernetes Package Administration with Helm (2020)
 * Monitoring Key Systems with Prometheus Exporters (2020)
 * Managing Apps on Kubernetes with Istio (2020)
-* Managing Advanced Kubernetes Logging and Tracing (2020)
 * Kubernetes for Developers: Moving to the Cloud (2019)
+* Managing Kubernetes Clusters with Lens 5 (2021)
 
 #### Advanced
-* Managing Ingress Traffic Patterns for Kubernetes Services (2021)
 * Deploying Stateful Applications in Kubernetes (2021)
+* Managing Advanced Kubernetes Logging and Tracing (2020)
+* Managing Ingress Traffic Patterns for Kubernetes Services (2021)
+
+## CloudAcademy
+* Certified Kubernetes Application Developer
+* Certified Kubernetes Administrator
