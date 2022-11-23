@@ -61,6 +61,6 @@
 * Managing Advanced Kubernetes Logging and Tracing (2020)
 * Managing Ingress Traffic Patterns for Kubernetes Services (2021)
 
-## CloudAcademy
+### CloudAcademy
 * Certified Kubernetes Application Developer
 * Certified Kubernetes Administrator
