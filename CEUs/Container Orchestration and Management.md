@@ -1,7 +1,7 @@
-## Learn and Master K8S
+## Learn, Practice and Master K8S
 ### Trainings
 #### Beginner
-* Learning Kubernetes (2018, updated 2021) [LinkedIn]
+* Learning Kubernetes (2018, updated 2021) [LinkedIn](https://www.linkedin.com/learning/learning-kubernetes-2018)
 * Kubernetes for Developers: Core Concepts (2021) [Pluralsight]
 * Getting Started with Kubernetes (2020) [Pluralsight]
 * Docker and Kubernetes: The Big Picture (2019) [Pluralsight]
