@@ -1,4 +1,4 @@
-## K8S
+## K8S Ecosystem
 
 ### LinkedIn
 
@@ -61,14 +61,43 @@
 * Managing Advanced Kubernetes Logging and Tracing (2020)
 * Managing Ingress Traffic Patterns for Kubernetes Services (2021)
 
+### Udemy
+#### Beginner
+* Kubernetes for the Absolute Beginners - Hands-on
+
+#### All Levels
+* Docker and Kubernetes: The Complete Guide
+* Learn DevOps: The Complete Kubernetes Course
+* Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
+* Kubernetes Certified Application Developer (CKAD) with Tests
+* Certified Kubernetes Administrator (CKA) with Practice Tests (2022)
+
 ### CloudAcademy
 #### Advanced
-* Certified Kubernetes Application Developer
-* Certified Kubernetes Administrator
+* Certified Kubernetes Application Developer (2022)
+* Certified Kubernetes Administrator (2022)
 
 ### Books
-#### B
-* Core Kubernetes (Jay Vyas, Chris Love) (2022) [Manning]
-#### I
-#### A
+#### Newbies and Step by Step Learners
+* Quick Start Kubernetes [Nigel Poulton] (2021)
+* Kubernetes Up & Running [O'Reilly]
+* Kubernetes Cookbook [O'Reilly]
+* The Kubernetes Workshop: Learn how to build and run highly scalable workloads on Kubernetes [Packt]
+* The Kubernetes Book [Nigel Poulton] (2022)
 
+#### Intermediate
+* Kubernetes in Action [Manning]
+* Learn Kubernetes in a Month of Lunches [Manning]
+* Mastering Kubernetes: Large scale container deployment and management [Packt]
+
+#### Advanced
+* Cloud Native DevOps with Kubernetes [O'Reilly]
+* Hacking Kubernetes: Threat-Driven Analysis and Defense [O'Reilly]
+* Learn Kubernetes Security: Securely orchestrate, scale, and manage your microservices in Kubernetes deployments [Packt]
+* The Kubernetes Bible [Packt]
+
+#### Experienced and Serious Learners
+* Kubernetes Best Practices [O'Reilly]
+* Kubernetes Patterns [O'Reilly]
+* Kubernetes in Production Best Practices [Packt]
+* Certified Kubernetes Application Developer (CKAD) Study Guide [O'Reilly]
