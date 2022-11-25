@@ -37,6 +37,8 @@
 * Elastic Stack: Getting Started [Pluralsight]
 * Perform Basic Search Functions in Kibana 7 with Kibana Query Language (KQL) [Pluralsight]
 * Learning Splunk [LinkedIn]
+* Splunk: The Big Picture [Pluralsight]
+* Splunk Enterprise Certified Admin Path [Pluralsight]
 
 ##### Intermediary
 * Elasticsearch Essential Training [LinkedIn](https://www.linkedin.com/learning/learning-the-elastic-stack-2?u=132179937) (2020)
