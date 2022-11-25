@@ -140,6 +140,12 @@
 * Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices [O'Reilly]
 * Mastering Distributed Tracing: Analyzing performance in microservices and complex systems [Packt]
 
+#### Chaos Engineering
+* Chaos Engineering: System Resiliency in Practice [O'Reilly] 
+* Learning Chaos Engineering: Discovering And Overcoming System Weaknesses Through Experimentation [O'Reilly] 
+* Chaos Engineering: Site reliability through controlled disruption [Manning]
+
+
 ### Keywords
 ---
 #### Monitoring
