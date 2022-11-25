@@ -29,7 +29,6 @@
 * Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine [O'Reilly] (2015) {who:true technical introduction, Beginner to Advanced}
 * Elasticsearch Indexing (2015 [Packt] {who:how engine stores data}
 * Kibana Essentials (2015) [Packt] {who:full guide}
-
 * Relevant Search: With Applications for Solr and Elasticsearch [Manning] (2016)
 * Learning Elastic Stack 7.0: Distributed Search, Analytics, and Visualization Using Elasticsearch, Logstash, Beats, and Kibana, 2nd Edition [Packt] (2019)
 * Advanced Elasticsearch 7.0: A Practical Guide to Designing, Indexing, and Querying Advanced Distributed Search Engines [Packt] (2019)
