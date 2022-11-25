@@ -65,7 +65,17 @@
 * Data Visualization with Kibana [Udemy]
 * Logging in Kubernetes with EFK Stack [Udemy]
 
-#### General
+#### Tracing
+---
+##### Intermediary
+* Jaeger - Distributed Tracing for Cloud Native Applications [Udemy]
+* Tracing Cloud-native Applications: From Stacktrace to Opentracing [Pluralsight]
+
+
+##### Advanced
+* DevOps Foundations: Distributed Tracing [LinkedIn] (2019)
+
+#### Observability
 ---
 ##### Beginner
 * Logging, Monitoring and Observability in Google Cloud [Pluralsight]
@@ -80,10 +90,11 @@
 * AWS for DevOps: Monitoring, Metrics, and Logging [LinkedIn] (2017)
 * Advanced Spring Boot Observability [LinkedIn] (2022)
 * Microsoft Azure Solutions Architect: Design a Logging and Monitoring Solution [Pluralsight]
+* Troubleshooting and Debugging Bash [LinkedIn]
 
 #### Continuous Optimization
+---
 ##### Advanced
-* Troubleshooting and Debugging Bash [LinkedIn]
 * Performance Tuning in Spring Apps [LinkedIn] (2021)
 
 ### Books 
@@ -143,5 +154,18 @@
 * CNCF Graduated Projects: **_FluentD_**
 * CNCF Incubating Projects: 
 * CNCF Sandbox Projects:
-* CNCF Member Products:  **_Elastic_**, **_OpenSearch_**, Logstash, Splunk
+* CNCF Member Products:  **_Elastic_**, **_OpenSearch_**, Logstash, Splunk, Grafana Loki
 
+#### Tracing
+* CNCF Graduated Projects: **_Jaeger_**
+* CNCF Incubating Projects: OpenTelemetry
+* CNCF Sandbox Projects:
+* CNCF Member Products:  Elastic APM, Grafana Tempo
+* Non-CNCF Member: Zipkin
+
+#### Choas Engineering
+* CNCF Graduated Projects: 
+* CNCF Incubating Projects: Chaos Mesh, Litmus
+* CNCF Sandbox Projects: Chaosblade
+* CNCF Member Products:  
+* Non-CNCF Member: 
