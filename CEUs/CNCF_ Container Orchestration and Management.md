@@ -40,7 +40,6 @@
 * GitOps: The Big Picture (2021) [Pluralsight]
 * Kubernetes Package Administration with Helm (2020) [Pluralsight]
 * Monitoring Key Systems with Prometheus Exporters (2020) [Pluralsight]
-* Managing Apps on Kubernetes with Istio (2020) [Pluralsight]
 * Kubernetes for Developers: Moving to the Cloud (2019) [Pluralsight]
 * Managing Kubernetes Clusters with Lens 5 (2021) [Pluralsight]
 * Kubernetes Hands-On - Deploy Microservices to the AWS Cloud [Udemy]
@@ -51,7 +50,6 @@
 * Kubernetes: Microservices (2018) [LinkedIn]
 * Running Kubernetes on AWS (EKS) (2021) [LinkedIn]
 * Kubernetes: Monitoring with Prometheus (2018) [LinkedIn]
-* Kubernetes: Service Mesh with Istio (2018) [LinkedIn]
 * Extending Kubernetes with Operator (2022) [LinkedIn]
 * Kubernetes: GitOps with ArgoCD (2021) [LinkedIn]
 * Deploying Stateful Applications in Kubernetes (2021) [Pluralsight]
@@ -73,6 +71,32 @@
 * Enhancing Application Communication with gRPC  [Pluralsight] (2017)
 * Building Java Microservices with gRPC  [LinkedIn] (2021)
 * Microservices with gRPC (Java + Spring Boot + Protobuf) [Udemy]
+
+### Service Proxy
+---
+* HAProxy for Beginners [Udemy]
+* Become HAProxy Load Balancer Expert - Using Ansible Playbook [udemy]
+* Learning NGINX [LinkedIn]
+* Linux System Engineer: Web Servers and DNS Using Apache, NGINX, and BIND [LinkedIn]
+* NGINX Fundamentals: High Performance Servers from Scratch [Udemy]
+* Introduction to NGINX [Udemy]
+* Apache Web Server: Administration [LinkedIn]
+* Learning Apache Tomcat [LinkedIn]
+
+* 
+### API Gateway
+---
+* AWS Networking and the API Gateway [Pluralsight]
+* Microservices With Kubernetes, Docker & API Gateway Kong [Udemy]
+* API Management with Kong Konnect Cloud [Udemy]
+* REST API Design, Management, Monitoring & Analytics [Udemy]
+
+### Service Mesh
+---
+* Managing Apps on Kubernetes with Istio (2020) [Pluralsight]
+* Kubernetes: Service Mesh with Istio [LinkedIn]
+* Istio Hands-On for Kubernetes [Udemy]
+* Intro to Istio-Service Mesh for Cloud-Native Kubernetes Apps [Udemy]
 
 ## Books
 ### Scheduling and Orchestration
@@ -118,6 +142,21 @@
 * Practical gRPC 
 * GRPC Microservices in Go [Manning]
 
+### Service Proxy
+* Load Balancing with HAProxy: Open-source technology for better scalability, redundancy and availability in your IT infrastructure
+* NGINX Cookbook: Advanced Recipes for High-Performance Load Balancing [O'Reilly]
+* Nginx HTTP Server - Fourth Edition: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before
+* Apache: The Definitive Guide [O'Reilly]
+
+### API Gateway
+* 
+
+### Service Mesh
+* Istio in Action
+* Istio: Up and Running: Using a Service Mesh to Connect, Secure, Control, and Observe
+* Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes
+* Mastering Service Mesh: Enhance, Secure, and Observe Cloud-native Applications with Istio, Linkerd, and Consul
+
 ## Keywords
 #### Scheduling and Orchestration
 * CNCF Graduated Projects: **_Kubernetes_**
@@ -145,11 +184,18 @@
 * CNCF Incubating Projects: Contour (k8s ingress controller using Envoy proxy)
 * CNCF Sandbox Projects:
 * CNCF Member Products: HAProxy, NGINX, Tengine (on Nginx), Traefik
-* Non-CNCF Member: Netflix Zuul, OpenResty
+* Non-CNCF Member: Netflix Zuul (spring cloud), OpenResty
 
-#### Continous (Cost) Optimization
+#### API Gateway
 * CNCF Graduated Projects: 
-* CNCF Incubating Projects:
-* CNCF Sandbox Projects: OpenCost
-* CNCF Member Products:  Kubecost, Crane (finops)
+* CNCF Incubating Projects: Emissary-Ingress
+* CNCF Sandbox Projects: 
+* CNCF Member Products:  Kong, Sentine (azure)
+* Non-CNCF Member: 
+
+#### Service Mesh
+* CNCF Graduated Projects: LinkerD
+* CNCF Incubating Projects: Istio
+* CNCF Sandbox Projects: 
+* CNCF Member Products:  Consul
 * Non-CNCF Member: 
