@@ -92,11 +92,6 @@
 * Microsoft Azure Solutions Architect: Design a Logging and Monitoring Solution [Pluralsight]
 * Troubleshooting and Debugging Bash [LinkedIn]
 
-#### Continuous Optimization
----
-##### Advanced
-* Performance Tuning in Spring Apps [LinkedIn] (2021)
-
 ### Books 
 #### Observability
 ---
@@ -168,4 +163,11 @@
 * CNCF Incubating Projects: Chaos Mesh, Litmus
 * CNCF Sandbox Projects: Chaosblade
 * CNCF Member Products:  
+* Non-CNCF Member: 
+
+#### Continous (Cost) Optimization
+* CNCF Graduated Projects: 
+* CNCF Incubating Projects:
+* CNCF Sandbox Projects: OpenCost
+* CNCF Member Products:  Kubecost, Crane (finops)
 * Non-CNCF Member: 
