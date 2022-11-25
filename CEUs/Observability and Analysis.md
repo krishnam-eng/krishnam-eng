@@ -1,6 +1,6 @@
-## Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
+Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
 
-### Training
+## Training
 #### Monitoring & Alerting
 ---
 ##### Beginner
@@ -92,15 +92,7 @@
 * Microsoft Azure Solutions Architect: Design a Logging and Monitoring Solution [Pluralsight]
 * Troubleshooting and Debugging Bash [LinkedIn]
 
-### Books 
-#### Observability
----
-* Software Telemetry: Reliable logging and monitoring [Manning] (2021)
-* Observability Engineering: Achieving Production Excellence [O'Reilly]
-* Cloud-Native Observability with OpenTelemetry: Learn to gain visibility into systems by combining tracing, metrics, and logging with OpenTelemetry [O'Reilly]
-* Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking [O'Reilly]
-* Kubernetes Security and Observability [O'Reilly]
-* Application Observability with Elastic [BPB]
+## Books 
 
 #### Monitoring
 ---
@@ -141,13 +133,21 @@
 * Mastering Distributed Tracing: Analyzing performance in microservices and complex systems [Packt]
 
 #### Chaos Engineering
+---
 * Chaos Engineering: System Resiliency in Practice [O'Reilly] 
 * Learning Chaos Engineering: Discovering And Overcoming System Weaknesses Through Experimentation [O'Reilly] 
 * Chaos Engineering: Site reliability through controlled disruption [Manning]
 
-
-### Keywords
+#### Observability
 ---
+* Software Telemetry: Reliable logging and monitoring [Manning] (2021)
+* Observability Engineering: Achieving Production Excellence [O'Reilly]
+* Cloud-Native Observability with OpenTelemetry: Learn to gain visibility into systems by combining tracing, metrics, and logging with OpenTelemetry [O'Reilly]
+* Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking [O'Reilly]
+* Kubernetes Security and Observability [O'Reilly]
+* Application Observability with Elastic [BPB]
+
+## Keywords
 #### Monitoring
 * CNCF Graduated Projects: **_Prometheus_**
 * CNCF Incubating Projects: Cortex, Open Metrics, Thanos 
