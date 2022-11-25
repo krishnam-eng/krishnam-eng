@@ -1,8 +1,8 @@
 ## Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
 
 ### Training
-
 #### Monitoring & Alerting
+---
 ##### Beginner
 * Getting Started with Prometheus [Pluralsight] (2020)
 * Monitoring and Alerting with Prometheus [Udemy]
@@ -31,6 +31,7 @@
 * Grafana Beginners to Advance Crash Course 2021 [Udemy]
 
 #### Logging
+---
 ##### Beginner
 * Learning the Elastic Stack [LinkedIn](https://www.linkedin.com/learning/learning-the-elastic-stack-2?u=132179937) (2020)
 * Installing the Elastic Stack [Pluralsight]
@@ -65,6 +66,7 @@
 * Logging in Kubernetes with EFK Stack [Udemy]
 
 #### General
+---
 ##### Beginner
 * Logging, Monitoring and Observability in Google Cloud [Pluralsight]
 
@@ -86,12 +88,14 @@
 
 ### Books 
 #### Observability
+---
 * Software Telemetry: Reliable logging and monitoring [Manning] (2021)
 * Observability Engineering: Achieving Production Excellence [O'Reilly]
 * Cloud-Native Observability with OpenTelemetry: Learn to gain visibility into systems by combining tracing, metrics, and logging with OpenTelemetry [O'Reilly]
 * Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking [O'Reilly]
 
 #### Monitoring
+---
 * Effective Monitoring and Alerting: For Web Operations [O'Reilly]
 * Practical Monitoring: Effective Strategies for the Real World [O'Reilly]
 * Prometheus: Up & Running: Infrastructure and Application Performance Monitoring [O'Reilly]
@@ -101,6 +105,7 @@
 * Getting Started with Grafana: Real-Time Dashboards for IT and Business Operations [Apress] (2022)
 
 #### Logging
+---
 * Logging in Action: With Fluentd, Kubernetes and more [Manning] (2021)
 * The Logstash Book (2014)
 * Elasticsearch Essentials (2016) [Packt] {pg:~250} {who:just starting}
@@ -122,10 +127,12 @@
 * Getting Started with Elastic Stack 8.0: Run Powerful and Scalable Data Platforms to Search, Observe, and Secure Your Organization (2022) [Packt]
 
 #### Tracing
+---
 * Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices [O'Reilly]
 * Mastering Distributed Tracing: Analyzing performance in microservices and complex systems [Packt]
 
 ### Keywords
+---
 #### Monitoring
 * CNCF Graduated Projects: **_Prometheus_**
 * CNCF Incubating Projects: Cortex, Open Metrics, Thanos 
