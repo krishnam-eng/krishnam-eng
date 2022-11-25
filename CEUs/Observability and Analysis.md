@@ -2,19 +2,33 @@
 
 ### Training
 
-#### Monitoring
+#### Monitoring & Alerting
 ##### Beginner
-* Getting Started with Prometheus
-* Configuring Prometheus 2 to Collect Metrics
+* Getting Started with Prometheus [Pluralsight] (2020)
+* Monitoring and Alerting with Prometheus [Udemy]
+* Prometheus Alerting and Monitoring [Udemy]
 
 ##### Intermediary
+* Configuring Prometheus 2 to Collect Metrics [Pluralsight] (2021)
+* Monitoring Key Systems with Prometheus Exporters [Pluralsight] (2021)
+* Alerting on Issues with Prometheus Alertmanager [Pluralsight] (2021)
+* Instrumenting Applications with Metrics for Prometheus [Pluralsight] (2021)
+* Running Prometheus 2 in Production [Pluralsight] (2021)
+* Monitoring Containerized Application Health with Docker [Pluralsight] (2021)
 * Monitoring and Observability with Datadog [LinkedIn](https://www.linkedin.com/learning/monitoring-and-observability-with-datadog?u=132179937) (2022)
 * Monitoring AWS with CloudWatch [LinkedIn] (2020)
 * AWS SysOps Admin: Implement Metrics, Alarms, and Filters [Pluralsight]
 
 ##### Advanced
+* Kubernetes: Monitoring with Prometheus [LinkedIn] (2018)
+* Advanced Spring: Spring Boot Actuator [LinkedIn] (2022)
+* Graphite and Grafana: Visualizing Application Performance [LinkedIn] (2018)
 * Monitoring and Event Response on AWS for DevOps Engineers [Pluralsight]
 
+##### All Levels
+* Prometheus | The Complete Hands-On for Monitoring & Alerting [Udemy]
+* Grafana from Beginner to Advanced (3rd Edition) [Udemy]
+* Grafana Beginners to Advance Crash Course 2021 [Udemy]
 
 #### Logging
 ##### Beginner
@@ -41,7 +55,6 @@
 * Kubernetes: Monitoring with Prometheus [LinkedIn]
 * Java 11 Core Libraries: Java Log System [Pluralsight]
 
-
 #### General
 ##### Beginner
 * Logging, Monitoring and Observability in Google Cloud [Pluralsight]
@@ -62,10 +75,22 @@
 * Troubleshooting and Debugging Bash [LinkedIn]
 * Performance Tuning in Spring Apps [LinkedIn] (2021)
 
-
 ### Books 
-#### Good Read
-##### Logging
+#### Observability
+* Software Telemetry: Reliable logging and monitoring [Manning] (2021)
+* Observability Engineering: Achieving Production Excellence [O'Reilly]
+* Cloud-Native Observability with OpenTelemetry: Learn to gain visibility into systems by combining tracing, metrics, and logging with OpenTelemetry [O'Reilly]
+* Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking [O'Reilly]
+
+#### Monitoring
+* Effective Monitoring and Alerting: For Web Operations [O'Reilly]
+* Practical Monitoring: Effective Strategies for the Real World [O'Reilly]
+* Prometheus: Up & Running: Infrastructure and Application Performance Monitoring [O'Reilly]
+* Learn Grafana 7.0: A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring [Packt]
+* Monitoring Microservices and Containerized Applications: Deployment, Configuration, and Best Practices for Prometheus and Alert Manager [Apress] (2020)
+* Getting Started with Grafana: Real-Time Dashboards for IT and Business Operations [Apress] (2022)
+
+#### Logging
 * Logging in Action: With Fluentd, Kubernetes and more [Manning] (2021)
 * The Logstash Book (2014)
 * Elasticsearch Essentials (2016) [Packt] {pg:~250} {who:just starting}
@@ -86,7 +111,13 @@
 * Learning Elastic Stack 7.0: Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2019) [Packt]
 * Getting Started with Elastic Stack 8.0: Run Powerful and Scalable Data Platforms to Search, Observe, and Secure Your Organization (2022) [Packt]
 
+#### Tracing
+* Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices [O'Reilly]
+* Mastering Distributed Tracing: Analyzing performance in microservices and complex systems [Packt]
+
 ### Keywords
+* Monitoring & Alerting: Prometheus, Cortex, OpenMetrics, Thanos[CNCF]
+* Grafana
 * Fluentd
 * Elasticsearch [readinglist](https://whatpixel.com/best-elasticsearch-books/)
 * Elastic Stack
