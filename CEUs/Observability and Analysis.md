@@ -1,4 +1,5 @@
-##
+## Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
+
 ### Training
 #### Beginner 
 * Installing the Elastic Stack [Pluralsight]
@@ -14,8 +15,8 @@
 * Developing Stream Processing Applications with AWS Kinesis [Pluralsight]
 * Perform Complex Search Functions in Kibana with Apache Lucene 7  [Pluralsight] (2021)
 #### Advanced
-* Executing Full Text Queries with Elasticsearch
-* Kubernetes: Monitoring with Prometheus
+* Executing Full Text Queries with Elasticsearch [Pluralsight] 
+* Kubernetes: Monitoring with Prometheus [LinkedIn] 
 
 ### Books 
 #### 
