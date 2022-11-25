@@ -2,24 +2,28 @@
 
 ### Training
 
-#### Beginner
+#### Monitoring
+##### Beginner
+* Getting Started with Prometheus
+* Configuring Prometheus 2 to Collect Metrics
 
-##### Logging
+##### Intermediary
+* Monitoring and Observability with Datadog [LinkedIn](https://www.linkedin.com/learning/monitoring-and-observability-with-datadog?u=132179937) (2022)
+* Monitoring AWS with CloudWatch [LinkedIn] (2020)
+* AWS SysOps Admin: Implement Metrics, Alarms, and Filters [Pluralsight]
+
+##### Advanced
+* Monitoring and Event Response on AWS for DevOps Engineers [Pluralsight]
+
+
+#### Logging
+##### Beginner
 * Learning the Elastic Stack [LinkedIn](https://www.linkedin.com/learning/learning-the-elastic-stack-2?u=132179937) (2020)
 * Installing the Elastic Stack [Pluralsight]
 * Elastic Stack: Getting Started [Pluralsight]
 * Perform Basic Search Functions in Kibana 7 with Kibana Query Language (KQL) [Pluralsight]
 
-##### General
-* Logging, Monitoring and Observability in Google Cloud [Pluralsight]
-
-#### Intermediary
-
-##### Monitoring
-* Monitoring and Observability with Datadog [LinkedIn](https://www.linkedin.com/learning/monitoring-and-observability-with-datadog?u=132179937) (2022)
-* Monitoring AWS with CloudWatch [LinkedIn] (2020)
-
-##### Logging
+##### Intermediary
 * Elasticsearch Essential Training [LinkedIn](https://www.linkedin.com/learning/learning-the-elastic-stack-2?u=132179937) (2020)
 * Centralized Logging with the Elastic Stack: Getting Started [Pluralsight] (2017)
 * Analyze Endpoint Data with Elasticsearch 7 [Pluralsight]
@@ -31,26 +35,33 @@
 * Secure Coding: Preventing Insufficient Logging and Monitoring [Pluralsight] (2018)
 * Logging and Management in Java SE 17 [Pluralsight] (2022)
 
-##### General
+##### Advanced
+* Executing Full Text Queries with Elasticsearch [Pluralsight]
+* Managing Advanced Kubernetes Logging and Tracing [Pluralsight]
+* Kubernetes: Monitoring with Prometheus [LinkedIn]
+* Java 11 Core Libraries: Java Log System [Pluralsight]
+
+
+#### General
+##### Beginner
+* Logging, Monitoring and Observability in Google Cloud [Pluralsight]
+
+##### Intermediary
 * AWS: Monitoring, Logging, and Remediation [LinkedIn](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation?u=132179937) (2021)
 * Azure Apps: Diagnostics, Instrumentation, and Logging [LinkedIn] (2019)
 * Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security
 
-#### Advanced
-
-##### Logging
-* Executing Full Text Queries with Elasticsearch [Pluralsight]
-* Managing Advanced Kubernetes Logging and Tracing [Pluralsight]
-* Kubernetes: Monitoring with Prometheus [LinkedIn]
-
-##### Continuous Optimization
-* Troubleshooting and Debugging Bash [LinkedIn]
-* Performance Tuning in Spring Apps [LinkedIn] (2021)
-
-##### General
+##### Advanced
+* Maintaining, Monitoring and Troubleshooting Kubernetes [Pluralsight] (2022)
 * AWS for DevOps: Monitoring, Metrics, and Logging [LinkedIn] (2017)
 * Advanced Spring Boot Observability [LinkedIn] (2022)
 * Microsoft Azure Solutions Architect: Design a Logging and Monitoring Solution [Pluralsight]
+
+#### Continuous Optimization
+##### Advanced
+* Troubleshooting and Debugging Bash [LinkedIn]
+* Performance Tuning in Spring Apps [LinkedIn] (2021)
+
 
 ### Books 
 #### Good Read
