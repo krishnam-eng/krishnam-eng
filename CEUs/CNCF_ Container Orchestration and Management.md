@@ -83,7 +83,6 @@
 * Apache Web Server: Administration [LinkedIn]
 * Learning Apache Tomcat [LinkedIn]
 
-* 
 ### API Gateway
 ---
 * AWS Networking and the API Gateway [Pluralsight]
