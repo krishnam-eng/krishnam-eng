@@ -99,6 +99,8 @@
 * Observability Engineering: Achieving Production Excellence [O'Reilly]
 * Cloud-Native Observability with OpenTelemetry: Learn to gain visibility into systems by combining tracing, metrics, and logging with OpenTelemetry [O'Reilly]
 * Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking [O'Reilly]
+* Kubernetes Security and Observability [O'Reilly]
+* Application Observability with Elastic [BPB]
 
 #### Monitoring
 ---
@@ -112,6 +114,7 @@
 
 #### Logging
 ---
+* I Heart Logs: Event Data, Stream Processing, and Data Integration [O'Reilly] (2014)
 * Logging in Action: With Fluentd, Kubernetes and more [Manning] (2021)
 * The Logstash Book (2014)
 * Elasticsearch Essentials (2016) [Packt] {pg:~250} {who:just starting}
