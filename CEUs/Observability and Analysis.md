@@ -36,6 +36,7 @@
 * Installing the Elastic Stack [Pluralsight]
 * Elastic Stack: Getting Started [Pluralsight]
 * Perform Basic Search Functions in Kibana 7 with Kibana Query Language (KQL) [Pluralsight]
+* Learning Splunk [LinkedIn]
 
 ##### Intermediary
 * Elasticsearch Essential Training [LinkedIn](https://www.linkedin.com/learning/learning-the-elastic-stack-2?u=132179937) (2020)
@@ -87,6 +88,7 @@
 * Practical Monitoring: Effective Strategies for the Real World [O'Reilly]
 * Prometheus: Up & Running: Infrastructure and Application Performance Monitoring [O'Reilly]
 * Learn Grafana 7.0: A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring [Packt]
+* Hands-On Infrastructure Monitoring with Prometheus: Implement and scale queries, dashboards, and alerting across machines and containers [Packt]
 * Monitoring Microservices and Containerized Applications: Deployment, Configuration, and Best Practices for Prometheus and Alert Manager [Apress] (2020)
 * Getting Started with Grafana: Real-Time Dashboards for IT and Business Operations [Apress] (2022)
 
@@ -116,10 +118,15 @@
 * Mastering Distributed Tracing: Analyzing performance in microservices and complex systems [Packt]
 
 ### Keywords
-* Monitoring & Alerting: Prometheus, Cortex, OpenMetrics, Thanos[CNCF]
-* Grafana
-* Fluentd
-* Elasticsearch [readinglist](https://whatpixel.com/best-elasticsearch-books/)
-* Elastic Stack
+#### Monitoring
+* CNCF Graduated Projects: **_Prometheus_**
+* CNCF Incubating Projects: Cortex, Open Metrics, Thanos 
+* CNCF Sandbox Projects: _Kuberhealthy_, Pixie, Skooner, Trickster
+* CNCF Member Products: **_Grafana_**, Beats, DataDog, DynaTrace, New Relic
 
-###
+#### Logging
+* CNCF Graduated Projects: **_FluentD_**
+* CNCF Incubating Projects: 
+* CNCF Sandbox Projects:
+* CNCF Member Products:  **_Elastic_**, **_OpenSearch_**, Logstash, Splunk
+
