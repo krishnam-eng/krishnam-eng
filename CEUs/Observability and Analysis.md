@@ -56,6 +56,12 @@
 * Kubernetes: Monitoring with Prometheus [LinkedIn]
 * Java 11 Core Libraries: Java Log System [Pluralsight]
 
+##### All Level
+* Complete Guide to Elasticsearch [Udemy]
+* Elasticsearch 8 and the Elastic Stack: In Depth and Hands On [Udemy]
+* Data Visualization with Kibana [Udemy]
+* Logging in Kubernetes with EFK Stack [Udemy]
+
 #### General
 ##### Beginner
 * Logging, Monitoring and Observability in Google Cloud [Pluralsight]
