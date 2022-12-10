@@ -1,7 +1,32 @@
-Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
+Table of Content
+---
+- [Training with Hands-On](#training-with-hands-on)
+    + [Monitoring](#monitoring)
+      - [Beginner](#beginner)
+      - [Intermediary](#intermediary)
+      - [Advanced](#advanced)
+      - [All Levels](#all-levels)
+    + [Logging](#logging)
+      - [Beginner](#beginner-1)
+      - [Intermediary](#intermediary-1)
+      - [Advanced](#advanced-1)
+      - [All Level](#all-level)
+    + [Tracing](#tracing)
+      - [Intermediary](#intermediary-2)
+      - [Advanced](#advanced-2)
+    + [Observability](#observability)
+      - [Beginner](#beginner-2)
+      - [Intermediary](#intermediary-3)
+      - [Advanced](#advanced-3)
+- [Books](#books)
+    + [Monitoring](#monitoring)
+    + [Logging](#logging-1)
+    + [Tracing](#tracing-1)
+    + [Chaos Engineering](#chaos-engineering)
+    + [Observability](#observability-1)
 
 ## Training with Hands-On
-#### Monitoring & Alerting
+#### Monitoring
 ---
 ##### Beginner
 * Getting Started with Prometheus [Pluralsight] (2020) <sub>{rating=4⭐️}</sub> <sup>_{completed="**Dec 10, 2022**", duration="1h 49m"}_</sup>
