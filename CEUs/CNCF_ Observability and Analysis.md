@@ -1,10 +1,10 @@
 Monitoring, Logging, Tracing, Choas Engineering and Continous Optimization
 
-## Training
+## Training with Hands-On
 #### Monitoring & Alerting
 ---
 ##### Beginner
-* Getting Started with Prometheus [Pluralsight] (2020)
+* Getting Started with Prometheus [Pluralsight] (2020) <sup>_{completed-on="10-Dec-2022", rating=4⭐️}_</sup> <sub>1h 49m</sub> 
 * Monitoring and Alerting with Prometheus [Udemy]
 * Prometheus Alerting and Monitoring [Udemy]
 
